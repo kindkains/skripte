@@ -1,0 +1,17 @@
+#!/bin/bash
+clear
+echo ''
+echo '************************************************************************************************************************************'
+echo '* Sollte ich die nächste DDOS Attacke mitbekommen, dann bitte folgende Maßnahmen ergreifen:                                        *'
+echo '*                                                                                                                                  *' 
+echo '* 1. Programm mtr aufrufen und schauen, ob hier was zu sehen ist                                                                   *'
+echo '* 2. Programm iptraf aufrufen und überprüfen, ob die Anzahl der Bytes extrem hoch ist und wenn ja, von welcher IP ausgehend        *'
+echo '* 3. Wenn sich eine IP als Angreifer heraus kristallisieren sollte, dann diese IP blocken. Und zwar mit:                           *' 
+echo '*                                         a) iptables -A INPUT -s ZU_BLOCKENDE_IPADRESSE -j DROP                                   *'
+echo '*                                         b) um die Regel wieder zu löschen: iptables -D INPUT -s GEBLOCKTE_IP -j DROP             *'
+echo '*                                                                                                                                  *'
+echo '* 4. Nochmals mit den Programmen mtr und iptraf überprüfen, ob die Maßnahme Wirkung gezeigt hat. Auch Tenshi sollte nun schweigen. *'
+echo '* 5. Wenn es erfolgreich gewesen ist, die Regel im Puppetmaster eintragen.                                                         *'
+echo '*                                                                                                                                  *'
+echo '*                                                                                                                                  *'
+echo '************************************************************************************************************************************'

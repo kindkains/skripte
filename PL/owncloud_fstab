@@ -1,0 +1,432 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>                                 <mount point>           <type>          <options>       <dump>  <pass>
+#FESTPLATTEN
+UUID=54935020-2e46-4ffc-935d-d44fa221e1e3       /                       ext4            defaults        0       1
+/dev/sdb3					/home			ext4		defaults	0	1
+#UUID=7c42ddaa-305e-42ee-a0fa-fe8e67795336       /home                   ext4            defaults        0       1
+UUID=bc9b8381-250c-4f90-aad6-66040accb90e       /data                   ext4            defaults        0       1
+UUID=67a0bb4b-8d0c-4505-b004-1e2b167644a3       /backup                 ext4            defaults        0       1
+
+# SWAP PARTITION /dev/sdb5
+UUID=cec59b34-3662-4223-aa12-e258e377edee       none                    swap            sw              0       0  
+
+#OPTISCHES LAUFWERK
+/dev/sr0                                        /media/cdrom0           udf,iso9660     user,noauto     0       0
+
+# <file system>                                                 <mount point>                           <type>          <options>                               <dump>  <pass>
+#NETZLAUFWERKE
+//dc-ko2.pl.lan/sandro.isoletta                                 /home/sandro/Netzlaufwerk               cifs		vers=2.0,credentials=/home/sandro/.credentials   0       0
+//DC-SP3.pl.lan/Gemeinsam                                       /home/sandro/Netzlaufwerk-Gemeinsam     cifs            credentials=/home/sandro/.credentials   0       0

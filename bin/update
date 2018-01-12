@@ -1,0 +1,8 @@
+#!/bin/bash
+sudo apt-get update | lolcat
+echo ""
+echo "Paketliste aktualisiert"
+echo "Beginne mit Upgrade"
+echo ""
+sleep 1
+sudo apt-get upgrade -y | lolcat

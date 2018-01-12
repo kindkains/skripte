@@ -1,0 +1,5 @@
+#!/bin/bash
+sudo mount -t davfs https://owncloud.bildung-rp.de/owncloud/remote.php/webdav/ /media/owncloud
+sudo mount -t davfs http://inka-online.de/owncloud/remote.php/webdav/ /media/owncloud-inka/
+rsync -auvP /media/owncloud/ /media/owncloud-inka/
+rsync -auvP /media/owncloud-inka/ /home/sandro/owncloud

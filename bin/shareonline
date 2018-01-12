@@ -1,0 +1,59 @@
+#!/bin/bash
+
+# Variablen definieren
+
+x=j
+upload="/home/sandro/tmp/upload/"
+ROT=`tput setaf 1`
+CYAN=`tput setaf 6`
+WEISS=`tput setaf 7`
+T=`tput setaf 9`
+
+# Funktionen definieren
+
+error() {
+echo ""
+echo "${ROT}"
+echo "Fehlerhafte Eingabe, Programm wird beendet"
+echo "${T}"
+echo ""
+exit;
+}
+
+echo ""
+echo "Der Standardpfad für den Upload befindet sich in ${WEISS}${upload}${T}"
+read -p "Soll der Standardpfad verwendet werden? ${CYAN}<j/n>${T} " x
+
+if [ "$x" = n ]; then
+	echo ""
+	read -p "Bitte neuen Upload-Pfad angeben: " upload
+	echo ""
+	liste=`ls $upload`
+	echo "Es wird versucht folgende Dateien hochzuladen:"
+	echo "$liste"
+	echo ""
+	java -jar /opt/share-online-upload/SOUP_CLI.jar -u=kindkains -p=Streuner -c=75000 ${upload}*
+elif [ "$x" = j ]; then
+	echo ""
+	liste=`ls $upload`
+	echo "Es wird versucht folgende Dateien hochzuladen:"
+	echo "$liste"
+	echo ""
+	java -jar /opt/share-online-upload/SOUP_CLI.jar -u=kindkains -p=Streuner -c=75000 ${upload}*
+	echo ""
+else
+	error
+fi
+
+
+#Usage: java -jar soup_cli.jar [OPTIONS]... [FILES]
+#	-u	username
+#	-p	password
+#	-c	characters per second
+#	-t=x	concurrent threads (1=default, 5=max)
+#	-o=1	only link output, default is complete API response
+#	-chk=[0,1,2,3]	validate API response
+#		0=disabled,1=filesize,2=md5,3=filesize+md5
+#		(output goes to stderr)
+#
+# Beispiel: java -jar soup_cli.jar -u=user -p=pass -c=75000 /home/user/files/abc*
