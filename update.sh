@@ -190,13 +190,3 @@ echo $basename
 echo $$
 unlock
 exit 0
-
-
-
-
-
-
-
-
-
-
