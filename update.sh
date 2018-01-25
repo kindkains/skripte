@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Test Update Skript. Wird noch weiter entwickelt...
+
 clear
 
 prog=$(basename $0)
