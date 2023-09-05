@@ -1,0 +1,47 @@
+#!/bin/bash
+
+# Wenn es mal Probleme mit der Paketverwaltung gibt, folgendes Skript ausprobieren
+# Keine Garantie, aber vielleicht hilfreich!
+
+sudo apt-get clean
+sudo apt-get update
+sudo apt-get dist-upgrade -y
+sudo apt-get -f install
+sudo dpkg --configure -a
+
+
+
+# Wenn das nicht hilft, dann folgendes versuchen. Angenommen das Paket php8.2-cli macht Probleme.
+# Dann mit dem Befehl 
+#
+# apt-cache policy php8.2-cli
+#
+# folgende Ausgabe erhalten:
+# php8.2-cli:
+#  Installiert:           8.2.10-1+ubuntu22.04.1+deb.sury.org+2
+#  Installationskandidat: 8.2.10-1+ubuntu22.04.1+deb.sury.org+2
+#  Versionstabelle:
+# *** 8.2.10-1+ubuntu22.04.1+deb.sury.org+2 500
+#        500 https://ppa.launchpadcontent.net/ondrej/php/ubuntu jammy/main amd64 Packages
+#        100 /var/lib/dpkg/status                                                           <===== diese Zeile ist wichtig!!!
+#
+#
+# nun diese nach der Datei in diesem Pfad suchen:
+# find /var/lib/dpkg/info/ -name "php8.2-cli*.postinst"
+#
+# Ausgabe:         /var/lib/dpkg/info/php8.2-cli.postinst
+# 
+# Diese Datei bearbeiten: vim /var/lib/dpkg/info/php8.2-cli.postinst
+#
+# Und ein exit einsetzen
+#
+# #!/bin/sh
+# 
+# set -e
+# exit				<===== direkt am Anfang, nach der set -e Zeile
+#
+#
+# Diese Schritte mit ALLEN Paketen wiederholen, welche Probleme machen und im Anschluss
+# dieses Skript noch einmal starten.
+# Es sollte dann ohne Fehler durchlaufen. Danach die "exit" Zeile überall wieder entfernen.
+
