@@ -16,6 +16,7 @@ while [ $check = 1 ]; do
 	echo "5: Tailscale Status"
 	echo "6: Tailscale installieren"
 	echo "7: Tailscale deinstallieren"
+	echo "8: Tailscale Server einrichten"
 	echo
 	read -p "Eingabe: " cmd
 	cmd=${cmd,,}
@@ -24,39 +25,45 @@ while [ $check = 1 ]; do
 
 		1)
 			echo 
-			sudo tailscale up --accept-routes
+			 tailscale up --accept-routes
 			check=0
 			;;
 		2)
 			echo
-			sudo tailscale down
+			 tailscale down
 			check=0
 			;;
 		3)
 			echo
-			sudo tailscale login
+			 tailscale login
 			check=0
 			;;
 		4)
 			echo
-			sudo tailscale logout
+			 tailscale logout
 			check=0
 			;;
 		5)
 			echo
-			sudo tailscale status
+			 tailscale status
 			check=0
 			;;
 		6)
 			echo
-			sudo curl -fsSL https://tailscale.com/install.sh | sh
+			 curl -fsSL https://tailscale.com/install.sh | sh
 			check=0
 			;;
 		7)
 			echo
-			REMOVE=$(dpkg -l | grep tailscale | awk '{print $2}'); sudo apt-get remove --purge $REMOVE
+			REMOVE=$(dpkg -l | grep tailscale | awk '{print $2}');  apt-get remove --purge $REMOVE
 			check=0
 			;;
+		8)
+			echo
+			read -p "Welches Subnetz soll geroutet werden? (bsp. 192.168.79.0/24)" cmd
+			tailscale up --advertise-routes=$cmd
+			check=0
+			;;			
 		quit)
 			echo
 			echo "Programm wird beendet"
