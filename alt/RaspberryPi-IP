@@ -1,0 +1,271 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-03-11 15:10 CET
+Nmap scan report for dc-ko1.pl.lan (172.24.1.1)
+Host is up (0.00017s latency).
+MAC Address: B8:AC:6F:83:AA:5B (Dell)
+Nmap scan report for dc-ko2.pl.lan (172.24.1.2)
+Host is up (0.000061s latency).
+MAC Address: 14:18:77:39:42:51 (Unknown)
+Nmap scan report for dc-ko3.pl.lan (172.24.1.3)
+Host is up (0.00018s latency).
+MAC Address: B8:AC:6F:93:F3:A3 (Dell)
+Nmap scan report for dc-ko4.pl.lan (172.24.1.4)
+Host is up (0.00032s latency).
+MAC Address: 00:50:56:97:C5:39 (VMware)
+Nmap scan report for fwgui01.bildung-rp.de (172.24.1.252)
+Host is up (-0.10s latency).
+MAC Address: 00:50:56:97:29:27 (VMware)
+Nmap scan report for gateway-ko.pl.lan (172.24.1.253)
+Host is up (-0.10s latency).
+MAC Address: 00:90:FB:38:39:F1 (Portwell)
+Nmap scan report for fw-01.pl.lan (172.24.1.254)
+Host is up (-0.10s latency).
+MAC Address: 00:1B:21:12:08:4C (Intel Corporate)
+Nmap scan report for ko-chronos.pl.lan (172.24.3.2)
+Host is up (-0.10s latency).
+MAC Address: 00:50:56:97:CF:A0 (VMware)
+Nmap scan report for machtest.pl.lan (172.24.3.3)
+Host is up (-0.10s latency).
+MAC Address: 00:50:56:97:01:8A (VMware)
+Nmap scan report for machprod.pl.lan (172.24.3.4)
+Host is up (-0.10s latency).
+MAC Address: 00:50:56:97:9F:79 (VMware)
+Nmap scan report for machdb.pl.lan (172.24.3.5)
+Host is up (-0.10s latency).
+MAC Address: 00:50:56:97:9B:F8 (VMware)
+Nmap scan report for machdbtest.pl.lan (172.24.3.6)
+Host is up (-0.10s latency).
+MAC Address: 00:50:56:97:73:E3 (VMware)
+Nmap scan report for 172.24.3.7
+Host is up (-0.10s latency).
+MAC Address: 00:50:56:97:81:5C (VMware)
+Nmap scan report for vewa-db1.pl.lan (172.24.3.8)
+Host is up (-0.10s latency).
+MAC Address: 00:50:56:97:E7:9C (VMware)
+Nmap scan report for vewa-db2.pl.lan (172.24.3.9)
+Host is up (-0.100s latency).
+MAC Address: 00:50:56:97:CA:5B (VMware)
+Nmap scan report for nagios-pl.pl.lan (172.24.3.20)
+Host is up (0.00018s latency).
+MAC Address: 00:0C:29:20:1B:E7 (VMware)
+Nmap scan report for puppetmaster.bildung-rp.de (172.24.3.30)
+Host is up (-0.10s latency).
+MAC Address: 00:0C:29:9D:5E:90 (VMware)
+Nmap scan report for 172.24.3.52
+Host is up (-0.10s latency).
+MAC Address: B8:AC:6F:86:FE:12 (Dell)
+Nmap scan report for 172.24.4.5
+Host is up (0.00029s latency).
+MAC Address: 00:26:73:8E:35:CC (Ricoh Company)
+Nmap scan report for 172.24.4.6
+Host is up (0.00021s latency).
+MAC Address: 00:26:73:8E:36:F9 (Ricoh Company)
+Nmap scan report for 172.24.4.7
+Host is up (0.00022s latency).
+MAC Address: 00:26:73:8E:37:55 (Ricoh Company)
+Nmap scan report for 172.24.4.11
+Host is up (-0.100s latency).
+MAC Address: 00:80:77:7D:37:7A (Brother Industries)
+Nmap scan report for 172.24.4.12
+Host is up (-0.10s latency).
+MAC Address: 00:26:55:16:69:FC (Hewlett-Packard Company)
+Nmap scan report for 172.24.4.13
+Host is up (-0.10s latency).
+MAC Address: 00:21:B7:01:CA:A3 (Lexmark International)
+Nmap scan report for 172.24.4.100
+Host is up (0.0020s latency).
+MAC Address: 00:1F:FE:9C:B0:40 (HPN Supply Chain)
+Nmap scan report for 172.24.4.101
+Host is up (0.0024s latency).
+MAC Address: 78:AC:C0:1D:12:80 (Hewlett-Packard Company)
+Nmap scan report for 172.24.4.103
+Host is up (0.14s latency).
+MAC Address: 20:FD:F1:EF:62:84 (3com Europe)
+Nmap scan report for 172.24.4.105
+Host is up (0.016s latency).
+MAC Address: 00:1B:3F:9E:C4:60 (ProCurve Networking by HP)
+Nmap scan report for 172.24.4.106
+Host is up (0.0031s latency).
+MAC Address: 78:E3:B5:41:72:C0 (Hewlett-Packard Company)
+Nmap scan report for 172.24.4.107
+Host is up (0.0012s latency).
+MAC Address: 00:0E:7F:45:F6:40 (Hewlett-Packard Company)
+Nmap scan report for 172.24.4.108
+Host is up (0.0013s latency).
+MAC Address: 00:0F:20:DC:E6:40 (Hewlett-Packard Company)
+Nmap scan report for 172.24.4.111
+Host is up (0.00030s latency).
+MAC Address: 74:46:A0:2B:0C:B0 (Hewlett Packard)
+Nmap scan report for 172.24.4.113
+Host is up (-0.10s latency).
+MAC Address: 00:1B:3F:D8:6C:80 (ProCurve Networking by HP)
+Nmap scan report for 172.24.4.114
+Host is up (-0.071s latency).
+MAC Address: 00:1C:2E:4B:8C:20 (HPN Supply Chain)
+Nmap scan report for 172.24.4.117
+Host is up (-0.054s latency).
+MAC Address: 00:1C:2E:8C:F6:20 (HPN Supply Chain)
+Nmap scan report for 172.24.4.118
+Host is up (-0.093s latency).
+MAC Address: 00:1C:2E:8C:27:50 (HPN Supply Chain)
+Nmap scan report for 172.24.4.119
+Host is up (-0.093s latency).
+MAC Address: 00:1B:3F:8F:D2:40 (ProCurve Networking by HP)
+Nmap scan report for 172.24.4.120
+Host is up (-0.098s latency).
+MAC Address: 58:20:B1:F6:5A:80 (Unknown)
+Nmap scan report for 172.24.4.121
+Host is up (-0.050s latency).
+MAC Address: 58:20:B1:F7:6F:40 (Unknown)
+Nmap scan report for 172.24.4.200
+Host is up (-0.10s latency).
+MAC Address: 00:60:35:03:A7:3C (Dallas Semiconductor)
+Nmap scan report for 172.24.10.3
+Host is up (0.028s latency).
+MAC Address: 00:64:00:01:7C:84 (Unknown)
+Nmap scan report for 172.24.10.4
+Host is up (0.017s latency).
+MAC Address: 00:64:00:00:E8:68 (Unknown)
+Nmap scan report for 172.24.10.5
+Host is up (0.00035s latency).
+MAC Address: 00:30:8C:3B:9A:5E (Quantum)
+Nmap scan report for 172.24.10.6
+Host is up (-0.045s latency).
+MAC Address: 00:D0:23:03:B9:16 (Infortrend Technology)
+Nmap scan report for kop-girmwin8.pl.lan (172.24.30.1)
+Host is up (0.00021s latency).
+MAC Address: F4:6D:04:E3:D7:1D (Asustek Computer)
+Nmap scan report for mns309.pl.lan (172.24.30.13)
+Host is up (-0.10s latency).
+MAC Address: 00:1E:E5:43:7B:B8 (Cisco-Linksys)
+Nmap scan report for mediendeisgn.pl.lan (172.24.30.20)
+Host is up (-0.10s latency).
+MAC Address: 00:26:73:8E:48:06 (Ricoh Company)
+Nmap scan report for kon-junglasjens.pl.lan (172.24.30.27)
+Host is up (-0.10s latency).
+MAC Address: 00:25:64:5E:34:CF (Dell)
+Nmap scan report for npi3a66b0.pl.lan (172.24.30.31)
+Host is up (-0.10s latency).
+MAC Address: 14:58:D0:3A:66:B0 (Unknown)
+Nmap scan report for kon-metzlerhtmp.pl.lan (172.24.30.34)
+Host is up (-0.10s latency).
+MAC Address: 00:25:64:4C:CB:FD (Dell)
+Nmap scan report for kop-schubertre2.pl.lan (172.24.30.80)
+Host is up (-0.10s latency).
+MAC Address: D4:3D:7E:C0:6C:1F (Micro-Star Int'l Co)
+Nmap scan report for kop-schnaideral.pl.lan (172.24.30.95)
+Host is up (-0.10s latency).
+MAC Address: 00:24:1D:C6:D4:17 (Giga-byte Technology Co.)
+Nmap scan report for kon-kolligm.pl.lan (172.24.30.121)
+Host is up (0.00045s latency).
+MAC Address: 00:24:9B:0D:B4:F8 (Action Star Enterprise Co.)
+Nmap scan report for 172.24.30.129
+Host is up (0.00072s latency).
+MAC Address: 00:21:B7:4C:29:AA (Lexmark International)
+Nmap scan report for kop-wronkaj.pl.lan (172.24.30.134)
+Host is up (-0.10s latency).
+MAC Address: 00:24:1D:C6:CD:3A (Giga-byte Technology Co.)
+Nmap scan report for kon-tibesa.pl.lan (172.24.30.164)
+Host is up (0.00023s latency).
+MAC Address: D4:BE:D9:84:41:5A (Dell)
+Nmap scan report for 169.254.91.201.pl.lan (172.24.30.167)
+Host is up (0.00021s latency).
+MAC Address: A0:42:3F:25:6C:53 (Tyan Computer)
+Nmap scan report for kop-thomem.pl.lan (172.24.30.226)
+Host is up (-0.10s latency).
+MAC Address: F4:6D:04:AC:86:36 (Asustek Computer)
+Nmap scan report for kop-monitoring.pl.lan (172.24.30.232)
+Host is up (0.00023s latency).
+MAC Address: 00:50:56:97:4D:6D (VMware)
+Nmap scan report for 172.24.30.240
+Host is up (-0.072s latency).
+MAC Address: 00:1B:3F:9E:34:40 (ProCurve Networking by HP)
+Nmap scan report for kop-isolettasan.pl.lan (172.24.30.12)
+Host is up.
+Nmap scan report for 172.24.50.1
+Host is up (0.00036s latency).
+MAC Address: 84:2B:2B:52:A2:19 (Dell)
+Nmap scan report for 172.24.100.1
+Host is up (0.0013s latency).
+MAC Address: B8:AC:6F:93:F3:A5 (Dell)
+Nmap scan report for 172.24.100.2
+Host is up (0.0013s latency).
+MAC Address: B8:AC:6F:83:AA:61 (Dell)
+Nmap scan report for 172.24.100.3
+Host is up (-0.067s latency).
+MAC Address: 14:18:77:39:42:53 (Unknown)
+Nmap scan report for 172.24.100.4
+Host is up (-0.099s latency).
+MAC Address: BC:30:5B:EC:5A:2B (Dell)
+Nmap scan report for 172.24.100.11
+Host is up (-0.099s latency).
+MAC Address: B8:AC:6F:96:1D:3E (Dell)
+Nmap scan report for 172.24.100.12
+Host is up (-0.099s latency).
+MAC Address: B8:AC:6F:96:28:EE (Dell)
+Nmap scan report for 172.24.100.13
+Host is up (-0.099s latency).
+MAC Address: B8:AC:6F:96:23:F4 (Dell)
+Nmap scan report for 172.24.100.14
+Host is up (-0.099s latency).
+MAC Address: B8:AC:6F:96:27:86 (Dell)
+Nmap scan report for 172.24.100.15
+Host is up (-0.099s latency).
+MAC Address: B8:AC:6F:96:1A:4E (Dell)
+Nmap scan report for 172.24.100.16
+Host is up (-0.099s latency).
+MAC Address: B8:AC:6F:87:FB:8E (Dell)
+Nmap scan report for 172.24.100.17
+Host is up (-0.10s latency).
+MAC Address: 54:9F:35:00:60:CC (Unknown)
+Nmap scan report for 172.24.100.18
+Host is up (-0.10s latency).
+MAC Address: 54:9F:35:00:5E:2C (Unknown)
+Nmap scan report for 172.24.100.19
+Host is up (-0.10s latency).
+MAC Address: 54:9F:35:06:27:2A (Unknown)
+Nmap scan report for 172.24.100.30
+Host is up (-0.099s latency).
+MAC Address: B8:AC:6F:86:FE:1A (Dell)
+Nmap scan report for 172.24.100.80
+Host is up (-0.024s latency).
+MAC Address: 90:B1:1C:40:B4:3A (Dell)
+Nmap scan report for 172.24.200.9
+Host is up (0.0053s latency).
+MAC Address: 00:1F:45:EC:EC:38 (Enterasys)
+Nmap scan report for callcenter.pl.lan (172.24.200.10)
+Host is up (0.00053s latency).
+MAC Address: 00:1B:21:AF:87:AC (Intel Corporate)
+Nmap scan report for xpression.pl.lan (172.24.200.11)
+Host is up (0.00064s latency).
+MAC Address: 00:30:05:A7:09:DB (Fujitsu Siemens Computers)
+Nmap scan report for 172.24.200.20
+Host is up (0.00051s latency).
+MAC Address: 00:07:07:00:4E:19 (Interalia)
+Nmap scan report for 172.24.200.100
+Host is up (0.16s latency).
+MAC Address: 00:20:CE:FB:FB:30 (Logical Design Group)
+Nmap scan report for 172.24.200.101
+Host is up (0.087s latency).
+MAC Address: 00:20:CE:FB:FB:30 (Logical Design Group)
+Nmap scan report for 172.24.200.102
+Host is up (0.00025s latency).
+MAC Address: 00:20:CE:FB:FB:30 (Logical Design Group)
+Nmap scan report for 172.24.200.103
+Host is up (0.00026s latency).
+MAC Address: 00:20:CE:FB:FB:30 (Logical Design Group)
+Nmap scan report for 172.24.200.104
+Host is up (0.43s latency).
+MAC Address: 00:20:CE:FB:FB:30 (Logical Design Group)
+Nmap scan report for 172.24.200.120
+Host is up (0.0013s latency).
+MAC Address: 00:1A:E8:49:FA:CA (Siemens Enterprise Communications GmbH & Co. KG)
+Nmap scan report for 172.24.200.121
+Host is up (0.0013s latency).
+MAC Address: 00:1A:E8:88:18:7F (Siemens Enterprise Communications GmbH & Co. KG)
+Nmap scan report for 172.24.200.200
+Host is up (0.00031s latency).
+MAC Address: 00:50:56:97:F0:F3 (VMware)
+Nmap scan report for xpression2.pl.lan (172.24.200.201)
+Host is up (0.00047s latency).
+MAC Address: 00:50:56:97:71:6F (VMware)

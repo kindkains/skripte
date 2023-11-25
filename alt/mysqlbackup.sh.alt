@@ -1,0 +1,7 @@
+#!/bin/sh
+
+d=`date +%d%m%y`
+mysqldump -u teampass --password=Ahf0Koev teampass > /var/backups/mysql/mysql-teampass-$d.sql
+gzip -9 /var/backups/mysql/mysql-teampass-$d.sql
+find /var/backups/mysql/ -ctime 14 -delete
+
