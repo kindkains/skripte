@@ -1,0 +1,8 @@
+#! /bin/bash
+
+#if [ `ls -d /home/sandro/nextcloud/home/sandro/KeePassXC/PrivateDatenbank2023.kdbx 2> /dev/null`]; then
+if [ `ls -d /home/sandro/ 2> /dev/null`]; then
+	echo "File found!"
+else
+	echo "File not found"
+fi
