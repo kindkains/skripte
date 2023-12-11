@@ -5,5 +5,7 @@ QUELLE2=/home/sandro/nextcloud/Share/Naturdokumentation/Hentai
 ZIEL1=/media/HDD4/Natur/Knast
 ZIEL2=/media/HDD4/Natur/Hentai/Knast
 
-rsync -avPu $QUELLE1 $ZIEL1
-rsync -avPu $QUELLE2 $ZIEL2
+sudo mv $QUELLE1/* $ZIEL1/
+sudo mv $QUELLE2/* $ZIEL2/
+
+sudo chown -R nas:users /media/HDD4/Natur
