@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ZIEL=/home/sandro/KeepassXC
+LOG=/home/sandro/FEHLER
 
 check_net(){
 	FILE=$1/$2			# Die Datei, welche auf Existenz geprüft wird
@@ -37,7 +38,7 @@ action(){
 		sync /home/sandro/nextcloud/home/sandro/KeePassXC
 		sync /home/sandro/nextcloud/home/antonio/KeepassDB
 		sync /home/sandro/nextcloud/home/ania/Passwortmanager
-		su sandro -c "umount /home/sandro/nextcloud"
+		# su sandro -c "umount /home/sandro/nextcloud"
 		echo
 	else
 		if test $1 -eq 1; then
@@ -49,8 +50,11 @@ action(){
 			su sandro -c "umount /home/sandro/nextcloud"
 			echo
 		else
+			u=" Uhr"
+			d=`date +%d.%m.%Y_%H:%M`$u
 			echo
-			echo "Fehler beim Einhängen, Festplatte nicht ereichbar!"
+			echo "Fehler beim Einhängen, Festplatte nicht ereichbar!" >> $LOG
+			echo "Last Run: $d" >> $LOG
 			echo
 			exit
 		fi
