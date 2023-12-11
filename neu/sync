@@ -1,0 +1,9 @@
+#!/bin/bash
+
+QUELLE1=/home/sandro/nextcloud/Share/Naturdokumentation/RL
+QUELLE2=/home/sandro/nextcloud/Share/Naturdokumentation/Hentai
+ZIEL1=/media/HDD4/Natur/Knast
+ZIEL2=/media/HDD4/Natur/Hentai/Knast
+
+rsync -avPu $QUELLE1 $ZIEL1
+rsync -avPu $QUELLE2 $ZIEL2

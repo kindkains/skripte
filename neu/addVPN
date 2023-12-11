@@ -1,0 +1,88 @@
+#!/bin/bash
+
+# Funktionen
+
+check_mnt(){
+	FILE=/home/sandro/nextcloud/chkmount				# Prüfen ob Nextcloud eingehangen ist
+
+	if test -e $FILE; then
+		sudo mv ${OUTPUT_DIR}/${CLIENT}.ovpn /home/sandro/nextcloud/Share/openvpn/
+	   return $1
+	else
+		echo
+		echo "Nextcloud ist noch nicht eingehangen!"
+		echo
+		mount /home/sandro/nextcloud
+		if test $? -eq 0; then
+		echo
+	       	echo "Nextcloud erfolgreich eingehangen!"
+		echo
+		check_mnt 1
+	        return 1
+	else
+		echo
+		echo "Fehlschlag! Nextcloud konnte nicht eingehangen werden!"
+		echo
+	        return 2
+	fi
+	fi
+}
+
+action(){
+	if test $1 -eq 1; then
+		echo
+                echo "Nextcloud aushaengen"
+		echo
+		umount /home/sandro/nextcloud
+        else
+		echo
+                echo "Nextcloud war schon eingehangen, bleibt also auch eingehangen."
+		echo
+	fi
+}
+
+
+clear
+read -p "Client Name: " CLIENT
+
+# Variablen
+
+TOOL=/home/openvpn/easy-rsa
+PKI=/home/openvpn/easy-rsa/pki
+CERTS=/home/openvpn/easy-rsa/pki/issued
+KEYS=//home/openvpn/easy-rsa/pki/private
+
+KEY_DIR=/home/openvpn/client-configs/files
+OUTPUT_DIR=/home/openvpn/client-configs/files
+BASE=/home/openvpn/client-configs/base.conf
+SRV=/etc/openvpn/clients/${CLIENT}
+
+cd ${TOOL}
+./easyrsa gen-req ${CLIENT}
+./easyrsa sign-req ${CLIENT}
+sudo mkdir -p ${SRV}
+sudo cp -av ${CERTS}/${CLIENT}.crt ${SRV}/
+sudo cp -av ${CERTS}/${CLIENT}.crt ${KEY_DIR}/
+sudo cp -av ${KEYS}/${CLIENT}.key ${SRV}/
+sudo cp -av ${KEYS}/${CLIENT}.key ${KEY_DIR}/
+
+cat ${BASE} \
+    <(echo -e '<ca>') \
+    ${KEY_DIR}/ca.crt \
+    <(echo -e '</ca>\n<cert>') \
+    ${KEY_DIR}/${CLIENT}.crt \
+    <(echo -e '</cert>\n<key>') \
+    ${KEY_DIR}/${CLIENT}.key \
+    <(echo -e '</key>\n<tls-auth>') \
+    ${KEY_DIR}/ta.key \
+    <(echo -e '</tls-auth>') \
+    > ${OUTPUT_DIR}/${CLIENT}.ovpn
+
+cd ${OUTPUT_DIR}
+zip ${CLIENT}-vpn.zip ca.crt ta.key ${CLIENT}.crt ${CLIENT}.key ${CLIENT}.ovpn
+sudo mv -v ${CLIENT}-vpn.zip $SRV/
+check_mnt 0
+	myCheck=$?
+        action $myCheck
+rm ${CLIENT}.crt ${CLIENT}.key
+cd -

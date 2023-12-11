@@ -1,0 +1,69 @@
+#!/bin/bash
+
+ZIEL=/home/sandro/KeepassXC
+
+check_net(){
+	FILE=$1/$2			# Die Datei, welche auf Existenz geprüft wird
+	u=" Uhr"
+	d=`date +%d.%m.%Y_%H:%M`$u
+	if test -e $FILE; then
+		echo
+		echo "$1 ist gemountet"
+		echo
+		return 0
+	else
+		echo
+		echo "$1 ist nicht gemountet, versuche die Festplatte einzuhängn"
+		echo
+		su sandro -c "mount $1"
+		if test $? -eq 0; then
+			echo
+	       		echo "Mount $1 hat geklappt - Zeitstempel $d"
+			echo
+	        	return 1
+	else
+		echo
+		echo "Mount $1 hat nicht geklappt - Zeitstempel $d"
+		echo
+	        return 2
+	fi
+	fi
+}
+
+action(){
+	if test $1 -eq 0; then
+		echo
+		echo "War schon eingehangen"
+		sync /home/sandro/nextcloud/home/sandro/KeePassXC
+		sync /home/sandro/nextcloud/home/antonio/KeepassDB
+		sync /home/sandro/nextcloud/home/ania/Passwortmanager
+		su sandro -c "umount /home/sandro/nextcloud"
+		echo
+	else
+		if test $1 -eq 1; then
+			echo
+			echo "War nicht eingehangen, konnte aber erfolgreich eingehangen werden"
+			sync /home/sandro/nextcloud/home/sandro/KeePassXC
+			sync /home/sandro/nextcloud/home/antonio/KeepassDB
+			sync /home/sandro/nextcloud/home/ania/Passwortmanager
+			su sandro -c "umount /home/sandro/nextcloud"
+			echo
+		else
+			echo
+			echo "Fehler beim Einhängen, Festplatte nicht ereichbar!"
+			echo
+			exit
+		fi
+	fi
+}
+
+sync(){
+	echo
+	echo "Synce $1 nach $ZIEL"
+	rsync -avPu $1/ $ZIEL/
+	echo
+}
+
+check_net /home/sandro/nextcloud NEXT
+	myCheck=$?
+	action $myCheck
