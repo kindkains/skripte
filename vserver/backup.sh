@@ -2,22 +2,15 @@
 
 #---------------------------- Variablen ------------------------------
 
-x=5
+x=7
 d=`date +%d.%m.%y`
-bak="/var/backups/"
-folder=( $(find /var/www -type d -maxdepth 1 | awk -F / '{print$4}'))
+bak="/var/backups/system/"
 
 #---------------------------------------------------------------------
 
-cd $bak
+sudo tar zcvf "${bak}"etc_${d}.tar.gz /etc/
+sudo tar zcvf "${bak}"root_${d}.tar.gz /root/
+sudo tar zcvf "${bak}"home_${d}.tar.gz /home/
 
-for i in ${folder[@]}; do
-
-	echo "$i wird nach ${bak}${i} gepackt"
-	tar -czf ${i}_${d}.tar.gz /var/www/${i}
-	echo
-
-done
-
-echo "Backups die älter als $x Tage sind werden gelöscht"
-find /var/backups/ -mtime +$x -exec rm {} \;
+echo "Backups die älter als ${x} Tage sind werden gelöscht"
+find "${bak}" -mtime +${x} -exec rm {} \;
