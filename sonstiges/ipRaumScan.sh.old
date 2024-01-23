@@ -1,9 +1,0 @@
-#!/bin/bash
-
-output=ergebnis
-
-for ((i=1; i < 255; i++)) ;
-    do
-	echo "IP 192.168.99.$i" >> $output
-        nslookup 192.168.99.$i >> $output
-   done
