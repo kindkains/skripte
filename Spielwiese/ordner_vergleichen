@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# Dieses Skript vergleicht die Inhalte zweier Ordner nach gleichnamigen Dateien
+# Sind die Dateien identisch, so werden sie im Ordner DUPE gelöscht
+# Sind die Dateien verschieden, so werden sie im Ordner DUPE umgenannt nach V2_dateiname
+
+# Definieren Sie die Pfade zu Ihren Ordnern
+ORIGINAL="~/skripte/Spielwiese"
+DUPE="~/skripte/sonstiges"
+
+# Durchlaufen Sie alle Dateien im Ordner "Spielewiese"
+for file in "$ORIGINAL"/*; do
+  # Extrahieren Sie den Dateinamen
+  filename=$(basename "$file")
+
+  # Überprüfen Sie, ob eine Datei mit dem gleichen Namen im Ordner "Sonstiges" existiert
+  if [[ -e "$DUPE/$filename" ]]; then
+    # Vergleichen Sie die Dateien
+    if diff -q "$file" "$DUPE/$filename" > /dev/null; then
+      # Wenn die Dateien identisch sind, löschen Sie die Datei im Ordner "Sonstiges"
+      rm -v "$DUPE/$filename"
+    else
+      # Wenn die Dateien unterschiedlich sind, benennen Sie die Datei im Ordner "Sonstiges" um
+      mv "$DUPE/$filename" "V2_${sonstiges}/${filename}"
+    fi
+  fi
+done
