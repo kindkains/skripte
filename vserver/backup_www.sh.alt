@@ -1,0 +1,41 @@
+#!/bin/bash
+
+###############################################################################
+############			ACHTUNG				   ############ 
+############ Dieses Skript war gut, denn es hat automatisch alle   ############
+############ Ordner in www gefunden und zum Backup hinzugefügt,    ############
+############ deshalb lasse ich es auch archiviert.		   ############
+############							   ############
+############ Es musste aber abgeändert werden, weil der DATA	   ############
+############ Ordner von Nextcloud nicht mehr unter /opt sondern	   ############
+############ hier in www liegt, das sprengt leider die Festplatte. ############
+############ 			01.09.2023			   ############
+###############################################################################
+
+
+
+#---------------------------- Variablen ------------------------------
+
+x=7
+d=`date +%d.%m.%y`
+bak="/var/backups/www/"
+folder=( $(find /var/www -type d -maxdepth 1 | awk -F / '{print$4}'))
+logfile=/var/log/cronjobs/www_backup.log
+
+#---------------------------------------------------------------------
+
+echo "Last Run: $d" | tee -a $logfile
+
+cd $bak
+
+for i in ${folder[@]}; do
+
+	echo "$i wird nach ${bak}${i} gepackt" | tee -a $logfile
+	tar -czf ${i}_${d}.tar.gz /var/www/${i}
+	echo
+done
+
+echo | tee -a $logfile
+
+echo "Backups die älter als ${x} Tage sind werden gelöscht"
+find "${bak}" -mtime +${x} -exec rm {} \;
