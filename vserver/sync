@@ -1,0 +1,16 @@
+#!/bin/bash
+
+ROT=`tput setaf 1`
+BLAU=`tput setaf 4`
+T=`tput setaf 9`
+pfad=/var/www/
+x=(bash_skript engel git_kurs inka-online php pokora rpg skripte spielwiese)
+
+
+for i in ${x[@]}; do
+	echo " Repository check ${BLAU}${i}${T}"
+                cd ${pfad}${i}
+                git pull
+                echo
+        done
+
