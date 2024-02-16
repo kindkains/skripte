@@ -1,12 +1,16 @@
 #!/bin/bash
 
-# Funktionen
+##############
+# Funktionen #
+##############
 
 check_mnt(){
 	FILE=/home/sandro/nextcloud/chkmount				# Prüfen ob Nextcloud eingehangen ist
 
 	if test -e $FILE; then
-		sudo mv ${OUTPUT_DIR}/${CLIENT}.ovpn /home/sandro/nextcloud/Share/openvpn/
+		sudo mkdir -p /home/sandro/nextcloud/Share/VPN/openvpn/client/${CLIENT}
+		sudo mv -v ${OUTPUT_DIR}/${CLIENT}.* /home/sandro/nextcloud/Share/VPN/openvpn/client/${CLIENT}/
+		sudo cp -v ${OUTPUT_DIR}/passwd.txt /home/sandro/nextcloud/Share/VPN/openvpn/client/${CLIENT}/
 	   return $1
 	else
 		echo
@@ -41,32 +45,68 @@ action(){
 	fi
 }
 
+#######################################
+
+################
+# BEGIN SCRIPT #
+################
 
 clear
-read -p "Client Name: " CLIENT
+if [ ! $1 == "" ]; then
+	CLIENT=$1
+else
+	read -p "Client Name: " CLIENT
+fi
 
-# Variablen
+#############
+# Variablen #
+#############
 
 TOOL=/home/openvpn/easy-rsa
 PKI=/home/openvpn/easy-rsa/pki
 CERTS=/home/openvpn/easy-rsa/pki/issued
-KEYS=//home/openvpn/easy-rsa/pki/private
-
+KEYS=/home/openvpn/easy-rsa/pki/private
 KEY_DIR=/home/openvpn/client-configs/files
 OUTPUT_DIR=/home/openvpn/client-configs/files
 BASE=/home/openvpn/client-configs/base.conf
-SRV=/etc/openvpn/clients/${CLIENT}
+BASE_A=/home/openvpn/client-configs/base_android.conf
+BASE_TMP=/home/openvpn/client-configs/base.conf.tmp
+BASE_TMP_A=/home/openvpn/client-configs/base_android.conf.tmp
+SRV=/etc/openvpn/client/${CLIENT}
+
+#######################################
 
 cd ${TOOL}
-./easyrsa gen-req ${CLIENT}
-./easyrsa sign-req ${CLIENT}
+./easyrsa gen-req ${CLIENT} nopass
+./easyrsa sign-req client ${CLIENT}
 sudo mkdir -p ${SRV}
 sudo cp -av ${CERTS}/${CLIENT}.crt ${SRV}/
 sudo cp -av ${CERTS}/${CLIENT}.crt ${KEY_DIR}/
 sudo cp -av ${KEYS}/${CLIENT}.key ${SRV}/
 sudo cp -av ${KEYS}/${CLIENT}.key ${KEY_DIR}/
 
-cat ${BASE} \
+cat $BASE > $BASE_TMP
+echo "log /etc/openvpn/logs/${CLIENT}.log" >> $BASE_TMP
+echo "# ca /etc/openvpn/server/ca.crt" >> $BASE_TMP
+echo "# cert /etc/openvpn/client/${CLIENT}/${CLIENT}.crt" >> $BASE_TMP
+echo "# key /etc/openvpn/client/${CLIENT}/${CLIENT}.key" >> $BASE_TMP
+
+cat ${BASE_TMP} \
+    <(echo -e '<ca>') \
+    ${KEY_DIR}/ca.crt \
+    <(echo -e '</ca>\n<cert>') \
+    ${KEY_DIR}/${CLIENT}.crt \
+    <(echo -e '</cert>\n<key>') \
+    ${KEY_DIR}/${CLIENT}.key \
+    <(echo -e '</key>\n<tls-auth>') \
+    ${KEY_DIR}/ta.key \
+    <(echo -e '</tls-auth>') \
+    > ${OUTPUT_DIR}/${CLIENT}.conf
+
+cat $BASE_A > $BASE_TMP_A
+echo "log ${CLIENT}.log" >> $BASE_TMP_A
+
+cat ${BASE_TMP_A} \
     <(echo -e '<ca>') \
     ${KEY_DIR}/ca.crt \
     <(echo -e '</ca>\n<cert>') \
@@ -78,11 +118,12 @@ cat ${BASE} \
     <(echo -e '</tls-auth>') \
     > ${OUTPUT_DIR}/${CLIENT}.ovpn
 
+rm -v $BASE_TMP $BASE_TMP_A
+
 cd ${OUTPUT_DIR}
-zip ${CLIENT}-vpn.zip ca.crt ta.key ${CLIENT}.crt ${CLIENT}.key ${CLIENT}.ovpn
+zip ${CLIENT}-vpn.zip ca.crt ta.key ${CLIENT}.crt ${CLIENT}.key ${CLIENT}.ovpn ${CLIENT}.conf passwd.txt
 sudo mv -v ${CLIENT}-vpn.zip $SRV/
 check_mnt 0
 	myCheck=$?
         action $myCheck
-rm ${CLIENT}.crt ${CLIENT}.key
 cd -
