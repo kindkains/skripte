@@ -1,0 +1,14 @@
+[Unit]
+Description=Bewegungssensor Skript
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/sandro/skripte/bewegung.py
+WorkingDirectory=/home/sandro/skripte
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=sandro
+
+[Install]
+WantedBy=multi-user.target
