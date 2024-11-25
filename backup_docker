@@ -1,3 +1,0 @@
-#!/bin/bash
-
-rsync -avP --delete /media/HDD3/volume1 /media/HDD2/volume1
