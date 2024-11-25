@@ -61,7 +61,7 @@ while [ $check = 1 ]; do
 		8)
 			echo
 			read -p "Welches Subnetz soll geroutet werden? (bsp. 192.168.79.0/24)" cmd
-			tailscale up --advertise-routes=$cmd
+			tailscale up --accept-routes --advertise-routes=$cmd
 			check=0
 			;;			
 		quit)
