@@ -56,7 +56,7 @@ fi
 if [ "$(id -u)" -eq 0 ]; then
     pfad=(/root /home /opt /etc /usr /var /media /srv)
 else
-    pfad=($HOME)
+    pfad=("$HOME")
 fi
 
 # Suche durchführen
