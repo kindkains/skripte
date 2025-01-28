@@ -1,0 +1,66 @@
+#!/bin/bash
+
+# Funktion zur Anzeige der Hilfe
+function show_help {
+    echo
+    echo "Verwendung: such [OPTION]... [NAME]"
+    echo "Sucht nach Dateien oder Verzeichnissen mit dem angegebenen Namen."
+    echo ""
+    echo "Mögliche Optionen:"
+    echo "  -f          sucht nach Dateien (Standard)"
+    echo "  -d          sucht nach Verzeichnissen"
+    echo "  -h, --help  zeigt diese Hilfe an"
+    echo ""
+    echo "Beispiele:"
+    echo "  such beispiel.txt     sucht nach einer Datei namens 'beispiel.txt'"
+    echo "  such -d tmp           sucht nach einem Verzeichnis namens 'tmp'"
+    echo
+}
+
+# Standardwerte
+TYPE="f"
+NAME=""
+
+# Argumente parsen
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        -f)
+            TYPE="f"
+            shift
+            ;;
+        -d)
+            TYPE="d"
+            shift
+            ;;
+        -h|--help)
+            show_help
+            exit 0
+            ;;
+        *)
+            NAME="$1"
+            shift
+            ;;
+    esac
+done
+
+# Überprüfen, ob ein Name angegeben wurde
+if [[ -z "$NAME" ]]; then
+        echo
+        echo "Fehler: Kein Name angegeben."
+        echo "Verwenden Sie -h oder --help für Hilfe."
+        echo
+        exit 1
+fi
+
+# Suchpfade basierend auf Benutzerrechten definieren
+if [ "$(id -u)" -eq 0 ]; then
+    pfad=(/root /home /opt /etc /usr /var /media /srv)
+else
+    pfad=($HOME)
+fi
+
+# Suche durchführen
+for i in "${pfad[@]}"; do
+    echo "Durchsuche $i"
+    find "$i" -type "$TYPE" -iname "*$NAME*"
+done
