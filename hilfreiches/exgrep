@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Punkt maskieren, um ihn im Suchbegriff als Literal zu behandeln
+escaped_pattern=$(echo "$1" | sed 's/\./\\./g')
+
+grep -P "(^|[^a-zA-Z0-9_-])${escaped_pattern}([^a-zA-Z0-9_-]|$)" "${2}"
