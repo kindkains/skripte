@@ -1,8 +1,0 @@
-#! /bin/bash
-
-pfad=(root home etc opt usr var)
-
-for i in ${pfad[@]}; do
-	echo "Durchsuche $i"
-	find /${i} -type $1 -iname "*$2*"
-done

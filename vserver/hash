@@ -1,3 +1,0 @@
-#!/bin/bash
-
-python -c 'import bcrypt; print(bcrypt.hashpw(b"$1", bcrypt.gensalt(rounds=10, prefix=b"2a")))'

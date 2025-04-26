@@ -1,4 +1,0 @@
-#!/bin/bash
-# Gebe fehlerhaft installierte Pakete aus
-
-dpkg -l | grep -v "^ii"

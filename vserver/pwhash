@@ -1,6 +1,0 @@
-#!/bin/bash
-
-read -p "Password: " pass
-echo
-echo "Bitte folgenden Befehl eingeben:"
-echo "python -c 'import bcrypt; print(bcrypt.hashpw(b\"$pass\", bcrypt.gensalt(rounds=10, prefix=b\"2a\")))'"

@@ -1,9 +1,0 @@
-#!/bin/bash
-
-pfad=(home root opt etc usr var)
-
-for i in ${pfad[@]}; do
-        echo "Durchsuche $i"
-        find /${i} -type $1 -iname "*$2*"
-done
-echo $2 >> ~/.suchliste

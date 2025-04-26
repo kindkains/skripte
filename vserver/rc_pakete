@@ -1,5 +1,0 @@
-#!/bin/bash
-# Pakete welche mit rc markiert sind, sind deinstallierte Pakete, dessen Konfigurationsdateien noch vorhanden sind.
-# Mit folgenden Befehl lassen sich diese aufräumen
-
-dpkg --list | grep "^rc" | cut -d " " -f 3 | xargs dpkg --purge

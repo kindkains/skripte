@@ -4,7 +4,7 @@ clear
 # Funktionen definieren
 
 check_dir () {
-	if [ `ls -d $dir 2> /dev/null` ]; then
+	if [ `ls -d $dir` ] 2> /dev/null; then
 
 		echo
 		echo "Directory "$dir" exist"

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+x=1
 myArray=(Hund Katze Maus Elefant Tiger)
 
 for i in ${myArray[@]}; do

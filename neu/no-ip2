@@ -1,2 +1,0 @@
-#! /bin/bash
-echo "Die Fritzbox hat soeben eine neue IP Adresse erhalten." | mail -s "Dyn-DNS: Neue IP-Adresse" sandro.isoletta@gmail.com
