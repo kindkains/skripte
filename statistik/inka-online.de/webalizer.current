@@ -1,0 +1,4486 @@
+# Webalizer V2.21-02 Incremental Data - 04/04/2018 23:59:56
+2018 4 4 23 59 56
+8822 7247 519 577 233 319 330035664 6601 799 1
+185 39 807 1 4
+2745 2312 104024522 153 2306 205
+1734 1356 61161991 182 1241 214
+851 551 47493083 153 398 177
+3492 3028 117356068 185 2656 206
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+102 64 15078108 32
+200 159 3172749 163
+131 62 3791849 71
+163 125 5731243 109
+152 84 869585 109
+390 311 6260744 314
+266 184 11314099 206
+760 666 23361007 689
+1302 1179 35170103 1148
+553 487 9667857 501
+1219 1117 26104864 1018
+645 559 12679362 563
+220 167 12280677 114
+86 43 3857552 39
+367 322 12191547 284
+421 367 5489232 332
+339 270 19854188 91
+178 123 7727691 84
+111 85 16828226 42
+80 43 12371224 27
+162 112 16833229 95
+260 156 20254748 72
+388 297 24141673 248
+327 265 25004107 250
+0
+0
+0
+7247
+0
+0
+0
+0
+0
+9
+0
+1
+52
+0
+79
+0
+0
+0
+0
+0
+0
+1412
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+0
+0
+# -urls- 
+/bilder/inka/kurama.jpg
+1 8 0 1754048 0 0
+/wiki/lib/plugins/wrap/images/toolbar/lo.png
+1 1 0 485 0 0
+/spielwiese/listing3-4.php
+0 5 0 6589 1 1
+/wiki/lib/tpl/dokuwiki/images/button-html5.png
+1 4 0 885 0 0
+/Gabrielit.jpg
+1 3 0 71113 0 0
+/webseiten/inka/glossar.php
+0 23 0 414063 2 1
+/meerwiki/lib/exe/indexer.php
+0 22 0 18684 1 1
+/owncloud/core/js/oc-requesttoken.js
+0 1 0 713 0 0
+/google.jpg
+1 5 0 62851 0 0
+/radio.jpg
+1 2 0 57348 0 0
+/download/Engel_Europakarte.pdf
+0 2 0 13889037 0 0
+/webseiten/inka/ausbildung.php
+0 22 0 157388 4 0
+/wiki/lib/images/toolbar/mono.png
+1 1 0 592 0 0
+/
+0 288 0 555929 263 126
+/bilder/inka/fenster.jpg
+1 10 0 679296 0 0
+/sqladmin/themes/original/img/b_tipp.png
+1 1 0 570 0 0
+/meerwiki/feed.php
+0 8 0 13436 0 0
+/gmx2.jpg
+1 2 0 66980 0 0
+/core/vendor/handlebars/handlebars.js
+0 1 0 160097 0 0
+/owncloud/
+0 3 0 1983 0 0
+/sqladmin/themes/original/img/logo_left.png
+1 1 0 7118 0 0
+/sparkasse2.jpg
+1 1 0 31668 0 0
+/wiki/lib/plugins/wrap/images/note/16/important.png
+1 1 0 849 0 0
+/wiki/lib/images/toolbar/hequal.png
+1 1 0 605 0 0
+/spielwiese/listing3-17.php
+0 6 0 8293 1 2
+/bilder/inka/Shaman.jpg
+1 3 0 70332 0 0
+/eschule24.jpg
+1 3 0 16892 0 0
+/sqladmin/themes/original/img/b_insrow.png
+1 1 0 545 0 0
+/sqladmin/themes/original/img/arrow_ltr.png
+1 1 0 539 0 0
+/forgot_passwd.php
+0 3 0 31280 1 0
+/calendar.php
+0 61 0 289154 16 8
+/webseiten/inka/sandro.php
+0 14 0 97355 4 4
+/download/Abenteuer.jpg
+1 15 0 379020 0 0
+/tiy.jpg
+1 2 0 49812 0 0
+/bilder/inka/Maya-Statue.jpg
+1 3 0 73411 0 0
+/sqladmin/themes/original/img/b_props.png
+1 1 0 556 0 0
+/wiki/lib/plugins/wrap/images/toolbar/hi.png
+1 1 0 534 0 0
+/spielwiese/listing3-3.php
+0 4 0 5489 0 0
+/wiki/lib/plugins/wrap/images/note/16/alert.png
+1 1 0 1158 0 0
+/core/js/jquery.ocdialog.js
+0 1 0 5525 0 0
+/youtube2.jpg
+1 1 0 33887 0 0
+/weightwatchers.jpg
+1 3 0 18626 0 0
+/bilder/inka/qenko.jpg
+1 1 0 124418 0 0
+/download/Engel_Wachssiegel_Raphaeliten.jpg
+1 2 0 202708 0 0
+/thermomix.jpg
+1 2 0 62897 0 0
+/core/css/global.css
+0 1 0 1098 0 0
+/core/js/eventsource.js
+0 1 0 4749 0 0
+/core/vendor/davclient.js/lib/client.js
+0 1 0 13515 0 0
+/meerwiki/lib/exe/
+0 4 0 2168 0 0
+/sqladmin/themes/original/img/s_error2.png
+1 1 0 498 0 0
+/download/Engel_Geschichte_Regen.pdf
+0 1 0 1092425 0 0
+/wiki/lib/images/toolbar/italic.png
+1 1 0 537 0 0
+/wiki/lib/plugins/color/images/picker_lime.png
+1 1 0 413 0 0
+/drachenzwinge.jpg
+1 3 0 99759 0 0
+/sqladmin/themes/original/img/logo_right.png
+1 1 0 5922 0 0
+/meerwiki/lib/tpl/dokuwiki/images/button-dw.png
+1 2 0 1346 0 0
+/wiki/lib/exe/fetch.php
+0 33 0 296183 0 1
+/webseiten/inka/seminare.php
+0 35 0 372965 3 1
+/webseiten/inka/impressum.php
+0 5 0 29532 0 0
+/download/engel.ico
+0 14 0 16480 0 0
+/wiki/lib/plugins/npd/js/button.js
+0 3 0 1766 0 0
+/bilder/inka/regenbogen.jpg
+1 4 0 20548 0 0
+/sqladmin/themes/original/img/s_process.png
+1 1 0 624 0 0
+/spielwiese/listing3-16.php
+0 7 0 10301 1 0
+/core/js/oc-dialogs.js
+0 1 0 27110 0 0
+/bilder/inka/hintergrund.gif
+1 56 0 72361 0 0
+/sqladmin/js/querywindow.js
+0 1 0 11481 0 0
+/owncloud/core/vendor/clipboard/dist/clipboard.js
+0 1 0 22956 0 0
+/owncloud/core/vendor/es6-promise/dist/es6-promise.js
+0 1 0 33033 0 0
+/webseiten/inka/level3.php
+0 11 0 108034 7 4
+/owncloud/core/js/files/client.js
+0 1 0 22257 0 0
+/wiki/lib/images/smileys/icon_doubt.gif
+1 1 0 452 0 0
+/blank.jpg
+1 2 0 742 0 0
+/wiki/lib/tpl/dokuwiki/images/button-php.gif
+1 4 0 688 0 0
+/heise.jpg
+1 3 0 31455 0 0
+/tag2_html/023 - Ausblick.html
+0 1 0 1137 1 0
+/wiki/lib/plugins/wrap/images/note/16/help.png
+1 1 0 1204 0 0
+/wiki/lib/tpl/dokuwiki/images/pagetools-sprite.png
+1 3 0 15795 0 0
+/spielwiese/listing3-2.php
+0 4 0 5371 0 1
+/shadowwiki/doku.php
+0 66 0 705842 12 13
+/bilder/inka/Mesa.jpg
+1 4 0 71692 0 0
+/webseiten/inka/english/welcome.php
+0 9 0 6606 1 1
+/wiki/lib/images/smileys/icon_neutral.gif
+1 1 0 445 0 0
+/download/Engel_Geschichte_Alle_Wege_fuehren_nach_Rom.pdf
+0 6 0 2671761 0 0
+/owncloud/core/vendor/jquery-ui/themes/base/jquery-ui.css
+0 1 0 32763 0 0
+/pony.jpg
+1 3 0 37551 0 0
+/shadowwiki/lib/exe/opensearch.php
+0 3 0 3604 0 0
+/coppermine/
+0 2 0 650 0 0
+/tag1_html/006 - Lichtung.html
+0 1 0 1141 1 1
+/gmx.jpg
+1 3 0 55563 0 0
+/wiki/lib/images/smileys/fixme.gif
+1 1 0 725 0 0
+/sqladmin/db_structure.php
+0 2 0 1842978 0 0
+/wiki/lib/plugins/color/images/picker_red.png
+1 1 0 413 0 0
+/meerwiki/lib/tpl/dokuwiki/images/button-donate.gif
+1 1 0 461 0 0
+/owncloud/core/css/global.css
+0 1 0 1098 0 0
+/wiki/lib/images/smileys/delete.gif
+1 1 0 723 0 0
+/bilder/inka/lisa2.jpg
+1 3 0 3072309 0 0
+/register.php
+0 1 0 8856 1 0
+/spielwiese/listing3-15.php
+0 5 0 7215 0 0
+/webseiten/inka/level2.php
+0 9 0 84494 3 3
+/Storch.jpg
+1 5 0 103039 0 0
+/bilder/inka/deutschland.jpg
+1 7 0 8207 0 0
+/core/js/oc-backbone.js
+0 1 0 756 0 0
+/download/Exodus_Risszeichnung.jpg
+1 2 0 8673915 0 0
+/download/feder-und-schwert.jpg
+1 14 0 77564 0 0
+/spielwiese/listing3-1.php
+0 4 0 5257 1 1
+/core/vendor/jquery-ui/themes/base/jquery-ui.css
+0 1 0 32763 0 0
+/owncloud/core/js/jquery.avatar.js
+0 1 0 4819 0 0
+/sqladmin/themes/original/img/b_sbrowse.png
+1 1 0 458 0 0
+/webseiten/inka/hiroko_jupp.php
+0 7 0 69211 1 0
+/core/vendor/bowser/src/bowser.js
+0 1 0 18770 0 0
+/sqladmin/themes/original/img/b_sql.png
+1 1 0 584 0 0
+/send_activation.php
+0 2 0 20146 0 0
+/core/js/placeholder.js
+0 1 0 4653 0 0
+/download/hintergrund.gif
+1 14 0 18032 0 0
+/download/Engel_Mächte aller Orden.pdf
+0 1 0 10817560 0 0
+/wiki/lib/images/smileys/icon_sad.gif
+1 1 0 445 0 0
+/core/css/jquery.ocdialog.css
+0 1 0 3130 0 0
+/download/Engel_Abenteuer_Gefahren_der_Vergangenheit.pdf
+0 1 0 71000 0 0
+/wiki/lib/images/smileys/icon_silenced.gif
+1 1 0 451 0 0
+/core/vendor/jquery/dist/jquery.min.js
+0 1 0 84889 0 0
+/tag2_html/028 - Apu-Despacho.html
+0 1 0 1036 1 0
+/owncloud/core/vendor/bowser/src/bowser.js
+0 1 0 18770 0 0
+/webseiten/inka/in_planung.php
+0 9 0 68479 4 2
+/wiki/lib/images/toolbar/link.png
+1 1 0 677 0 0
+/bilder/inka/benito.jpg
+1 3 0 25668 0 0
+/inkaspirit.jpg
+1 3 0 256011 0 0
+/core/js/files/fileinfo.js
+0 1 0 2542 0 0
+/bilder/inka/hiroko.gif
+1 1 0 32379 0 0
+/webseiten/inka/europa.php
+0 25 0 301234 7 2
+/spielwiese/listing3-14.php
+0 5 0 8070 1 0
+/wiki/lib/images/smileys/icon_wink.gif
+1 1 0 444 0 0
+/core/js/mimetype.js
+0 1 0 4102 0 0
+/spielwiese/phptest.php
+0 5 0 6724 1 0
+/webseiten/inka/level1.php
+0 11 0 98110 5 3
+/sqladmin/themes/original/img/b_sqlhelp.png
+1 1 0 549 0 0
+/boerse.jpg
+1 3 0 54093 0 0
+/download/Engel_Namensliste.doc
+0 1 0 20279 0 0
+/ania2.jpg
+1 1 0 43594 0 0
+/mafe.jpg
+1 3 0 17754 0 0
+/download/ubuntu.html
+0 3 0 11655 0 0
+/css/coppermine.css
+0 3 0 12297 0 0
+/owncloud/core/js/oc-dialogs.js
+0 1 0 27110 0 0
+/whatsapp2.jpg
+1 1 0 51688 0 0
+/core/css/fonts.css
+0 1 0 1243 0 0
+/bilder/inka/Firefox.jpg
+1 6 0 44292 0 0
+/download/ENGE.jpg
+1 14 0 453732 0 0
+/wiki/lib/plugins/color/images/picker_light_gray.png
+1 1 0 413 0 0
+/webseiten/inka/bericht_jochen.php
+0 7 0 60557 1 0
+/exalted.jpg
+1 3 0 81091 0 0
+/owncloud/core/vendor/moment/min/moment-with-locales.js
+0 1 0 370611 0 0
+/webseiten/inka/mesa.php
+0 18 0 236863 7 3
+/wiki/lib/images/toolbar/ul.png
+1 1 0 563 0 0
+/login.php
+0 12 0 136120 6 2
+/webseiten/inka/bilder.php
+0 9 0 82210 0 0
+/bilder/inka/splashscreen.jpg
+1 6 0 727332 0 0
+/webseiten/inka/wir_suchen.php
+0 14 0 3372 2 1
+/wiki/lib/tpl/dokuwiki/images/logo.png
+1 4 0 11508 0 0
+/wiki/lib/images/smileys/facepalm.gif
+1 1 0 459 0 0
+/shadowwiki/lib/tpl/dokuwiki/images/button-html5.png
+1 1 0 580 0 0
+/owncloud/core/js/jquery.ocdialog.js
+0 1 0 5525 0 0
+/bilder/inka/kosmos.jpg
+1 8 0 237200 0 0
+/sqladmin/themes/original/img/b_select.png
+1 1 0 802 0 0
+/wiki/lib/images/ns.png
+1 1 0 1074 0 0
+/meerwasser.jpg
+1 2 0 120057 0 0
+/bilder/inka/kuramawald.jpg
+1 7 0 491586 0 0
+/wiki/lib/tpl/dokuwiki/images/button-dw.png
+1 4 0 1071 0 0
+/webseiten/inka/lisa.php
+0 12 0 79854 4 3
+/meerwiki/doku.php
+0 77 0 807351 13 16
+/core/vendor/es6-promise/dist/es6-promise.js
+0 1 0 33033 0 0
+/core/img/background.jpg
+1 1 0 156679 0 0
+/webseiten/inka/reiki.php
+0 10 0 118605 3 3
+/sqladmin/themes/original/img/bd_empty.png
+1 1 0 560 0 0
+/core/js/config.js
+0 1 0 2036 0 0
+/wiki/lib/exe/indexer.php
+0 59 0 35903 1 8
+/lib/exe/opensearch.php
+0 3 0 3277 0 0
+/feed.php
+0 6 0 14558 0 0
+/webseiten/inka/alberto.php
+0 39 0 495911 21 3
+/wikipedia.jpg
+1 5 0 52501 0 0
+/spielwiese/listing3-13.php
+0 6 0 8446 1 1
+/download/Trailer.exe
+0 6 0 20484488 0 0
+/spielwiese/listing11-14.php
+0 6 0 12237 1 1
+/amazon.jpg
+1 5 0 60389 0 0
+/owncloud/core/js/config.js
+0 1 0 2036 0 0
+/agb.php
+0 3 0 17276 0 0
+/bilder/inka/Qeros02.jpg
+1 3 0 476055 0 0
+/owncloud/core/js/mimetype.js
+0 1 0 4102 0 0
+/wiki/lib/plugins/edittable/images/add_table.png
+1 1 0 989 0 0
+/owncloud/core/fonts/OpenSans-Semibold.woff
+0 1 0 70396 0 0
+/core/css/header.css
+0 1 0 8532 0 0
+/webseiten/inka/bericht_jupp.php
+0 9 0 65702 2 3
+/sqladmin/themes/original/img/s_asci.png
+1 1 0 515 0 0
+/startseite.html
+0 3 0 14733 2 1
+/inkaspirit2.jpg
+1 1 0 203536 0 0
+/tag2_html/017 - Kraftplatz.html
+0 1 0 1106 1 0
+/engel2.jpg
+1 1 0 32361 0 0
+/sqladmin/themes/original/img/s_vars.png
+1 1 0 568 0 0
+/download/Engel_Charakterbogen_D20.pdf
+0 4 0 2010680 0 0
+/download/Engel_Wachssiegel_Samaeliten.jpg
+1 1 0 97881 0 0
+/bilder/inka/wakaypata.jpg
+1 1 0 37799 0 0
+/webseiten/inka/schamanismus.php
+0 6 0 51946 1 0
+/wiki/lib/plugins/wrap/images/note/16/download.png
+1 1 0 958 0 0
+/wiki/lib/images/toolbar/hplus.png
+1 1 0 666 0 0
+/owncloud/core/img/favicon.ico
+0 5 0 27206 0 0
+/sqladmin/themes/original/img/bd_select.png
+1 1 0 786 0 0
+/spielwiese/listing2-8.php
+0 5 0 6620 2 1
+/lib/exe/
+0 1 0 518 0 0
+/owncloud/core/css/jquery.ocdialog.css
+0 1 0 3154 0 0
+/download/Charakterbögen.jpg
+1 14 0 167668 0 0
+/wiki/lib/plugins/color/images/picker_orange.png
+1 1 0 413 0 0
+/spielwiese/listing3-12.php
+0 5 0 6873 0 1
+/bilder/inka/landschaft.png
+1 60 0 52009811 0 0
+/core/l10n/de_DE.js
+0 1 0 31997 0 0
+/wiki/lib/plugins/color/images/picker_light_turquoise.png
+1 1 0 413 0 0
+/core/vendor/jquery-migrate/jquery-migrate.min.js
+0 1 0 10139 0 0
+/silver.jpg
+1 3 0 20459 0 0
+/webmail.jpg
+1 3 0 55147 0 0
+/bilder/inka/Despacho.jpg
+1 4 0 454132 0 0
+/core/vendor/moment/min/moment-with-locales.js
+0 1 0 370611 0 0
+/wiki/lib/exe/ajax.php
+0 24 0 65370 1 0
+/sparkasse.jpg
+1 5 0 80719 0 0
+/youtube.jpg
+1 5 0 86332 0 0
+/webseiten/inka/bericht_ania.php
+0 9 0 122974 2 1
+/admin.php
+0 4 0 22202 1 0
+/wiki/lib/plugins/color/images/picker_turquoise.png
+1 1 0 413 0 0
+/bilder/inka/buch8.jpg
+1 1 0 2206 0 0
+/meerwiki/lib/tpl/dokuwiki/images/button-php.gif
+1 1 0 481 0 0
+/wiki/lib/images/toolbar/underline.png
+1 1 0 596 0 0
+/shadowwiki/lib/tpl/dokuwiki/images/button-php.gif
+1 2 0 986 0 0
+/bilder/inka/england.jpg
+1 6 0 25084 0 0
+/core/css/jquery-ui-fixes.css
+0 1 0 4122 0 0
+/wiki/lib/images/smileys/icon_eek.gif
+1 1 0 444 0 0
+/wiki/lib/images/toolbar/chars.png
+1 1 0 768 0 0
+/bilder/inka/blank.jpg
+1 52 0 85470 0 0
+/download/Engel_Wachssiegel_Urieliten.jpg
+1 2 0 192634 0 0
+/core/vendor/blueimp-md5/js/md5.js
+0 1 0 10146 0 0
+/owncloud/core/css/header.css
+0 1 0 8532 0 0
+/sqladmin/themes/original/img/b_tblanalyse.png
+1 1 0 558 0 0
+/wiki/lib/tpl/dokuwiki/images/favicon.ico
+0 4 0 15116 0 0
+/download/Engel_Wachssiegel_Pontifex.jpg
+1 1 0 100221 0 0
+/webseiten/inka/wiraqocha.php
+0 10 0 96025 1 1
+/sqladmin/js/tooltip.js
+0 1 0 5456 0 0
+/webseiten/inka/energieheilung.php
+0 15 0 269466 2 2
+/download/Engel_Was junge Engel wissen.pdf
+0 3 0 3268881 0 0
+/bilder/inka/Energieguertel.jpg
+1 2 0 21348 0 0
+/sqladmin/themes/original/img/b_print.png
+1 1 0 836 0 0
+/owncloud/core/js/eventsource.js
+0 1 0 4749 0 0
+/core/vendor/clipboard/dist/clipboard.js
+0 1 0 22956 0 0
+/bilder/inka/juan2.jpg
+1 5 0 196609 0 0
+/spielwiese/code.jpg
+1 5 0 123474 0 0
+/spielwiese/listing2-7.php
+0 5 0 7498 2 1
+/spielwiese/listing3-11.php
+0 7 0 10458 0 0
+/spielwiese/back-button.png
+1 4 0 47663 0 0
+/webseiten/inka/lehrer.php
+0 15 0 109337 2 2
+/wiki/lib/exe/js.php
+0 7 0 9823299 2 0
+/bilder/inka/sacsayhuaman.jpg
+1 1 0 50247 0 0
+/bilder/inka/Sandro.jpg
+1 7 0 1854645 0 0
+/lib/exe/css.php
+0 5 0 981122 1 0
+/js/thumbnails.js
+0 1 0 4633 0 0
+/wiki/lib/images/smileys/icon_smile2.gif
+1 1 0 448 0 0
+/obsidian.jpg
+1 3 0 79999 0 0
+/download/inka/All One Nation.mp3
+0 5 0 25008207 0 0
+/sqladmin/main.php
+0 1 0 45428 0 0
+/bilder/inka/Federn_1.gif
+1 18 0 66600 0 0
+/owncloud/core/js/js.js
+0 1 0 60980 0 0
+/bilder/inka/Ollantaytambo.jpg
+1 1 0 72176 0 0
+/bilder/inka/buch7.jpg
+1 1 0 1978 0 0
+/wiki/lib/images/toolbar/hminus.png
+1 1 0 678 0 0
+/sqladmin/favicon.ico
+0 1 0 19170 0 0
+/download/Engel_Wachssiegel_Sarieliten.jpg
+1 3 0 299017 0 0
+/sandro.jpg
+1 2 0 115124 0 0
+/webseiten/inka/priester.php
+0 13 0 177043 7 3
+/wiki/lib/images/smileys/icon_confused.gif
+1 1 0 445 0 0
+/webseiten/inka/willkommen.php
+0 16 0 166008 4 1
+/owncloud/core/vendor/snapjs/dist/latest/snap.js
+0 1 0 32871 0 0
+/js/jquery.elastic.js
+0 2 0 5414 0 0
+/exalted2.jpg
+1 1 0 48747 0 0
+/webseiten/inka/download.php
+0 10 0 67648 3 1
+/sqladmin/themes/original/img/b_selboard.png
+1 1 0 536 0 0
+/wiki/lib/plugins/color/images/picker_gold.png
+1 1 0 413 0 0
+/core/css/tooltip.css
+0 1 0 2821 0 0
+/bilder/inka/juan1.jpg
+1 3 0 121857 0 0
+/spielwiese/listing4-3.php
+0 6 0 8096 1 0
+/core/search/js/search.js
+0 1 0 12305 0 0
+/spielwiese/listing2-6.php
+0 5 0 8386 1 1
+/wiki/lib/plugins/wrap/images/toolbar/clear.png
+1 1 0 1072 0 0
+/spielwiese/listing3-10.php
+0 5 0 7608 0 0
+/wiki/lib/images/smileys/icon_doubt2.gif
+1 1 0 454 0 0
+/core/css/inputs.css
+0 1 0 9848 0 0
+/owncloud/core/img/background.jpg
+1 1 0 156679 0 0
+/webseiten/inka/usui.php
+0 23 0 524484 9 5
+/owncloud/core/js/files/fileinfo.js
+0 1 0 2542 0 0
+/wiki/lib/images/throbber.gif
+1 1 0 1021 0 0
+/webseiten/inka/despacho.php
+0 13 0 113843 4 2
+/webseiten/inka/ueber-uns.php
+0 13 0 85823 3 2
+/sqladmin/themes/original/img/s_db.png
+1 1 0 547 0 0
+/core/css/fixes.css
+0 1 0 848 0 0
+/bilder/inka/ruine.jpg
+1 11 0 1255812 0 0
+/bilder/inka/buch6.jpg
+1 1 0 7335 0 0
+/download/ENGE_swb.zip
+0 1 0 27599 0 0
+/download/inoffiziell.jpg
+1 14 0 354308 0 0
+/bilder/inka/priester2.jpg
+1 13 0 2149448 0 0
+/owncloud/core/js/oc-backbone.js
+0 1 0 756 0 0
+/wiki/lib/images/smileys/icon_cool.gif
+1 1 0 446 0 0
+/download/Engel_historica_apocalyptica - Vollständig.pdf
+0 5 0 17128455 0 0
+/core/css/icons.css
+0 1 0 9542 0 0
+/shadowwiki/lib/tpl/dokuwiki/images/button-dw.png
+1 1 0 673 0 0
+/profile.php
+0 1 0 9087 1 0
+/favicon.ico
+0 57 0 96358 0 0
+/shadowwiki/lib/exe/indexer.php
+0 18 0 16402 0 0
+/sqladmin/themes/original/img/s_host.png
+1 1 0 578 0 0
+/sqladmin/themes/original/img/b_docs.png
+1 1 0 554 0 0
+/wiki/lib/images/smileys/icon_question.gif
+1 1 0 456 0 0
+/owncloud/core/css/jquery-ui-fixes.css
+0 1 0 4122 0 0
+/system-cgi/guestbook/guestbook.php
+0 5 0 2329 5 0
+/owncloud/core/js/placeholder.js
+0 1 0 4653 0 0
+/shadowwiki/lib/tpl/dokuwiki/images/logo.png
+1 2 0 8040 0 0
+/spielwiese/listing4-2.php
+0 7 0 15084 1 2
+/spielwiese/listing2-5.php
+0 6 0 8091 1 2
+/tanelorn2.jpg
+1 3 0 162810 0 0
+/sqladmin/themes/original/img/b_import.png
+1 1 0 572 0 0
+/js/profile.js
+0 1 0 1232 0 0
+/core/js/js.js
+0 1 0 60980 0 0
+/bilder/inka/terrassen.jpg
+1 12 0 722614 0 0
+/doku.php
+0 69 0 751056 18 13
+/owncloud/core/vendor/bootstrap/js/tooltip.js
+0 1 0 16853 0 0
+/bilder/inka/Elizabeth.jpg
+1 9 0 159549 0 0
+/wiki/lib/images/toolbar/smiley.png
+1 1 0 955 0 0
+/sqladmin/themes/original/img/b_engine.png
+1 1 0 624 0 0
+/download/Engel_Charakterbogen_WoD v2.pdf
+0 6 0 25354932 0 0
+/download/Engel_Charakterbogen_WoD.pdf
+0 4 0 17297848 0 0
+/meerwiki/lib/tpl/dokuwiki/images/logo.png
+1 1 0 4096 0 0
+/owncloud/core/css/inputs.css
+0 1 0 9848 0 0
+/core/img/logo.svg
+0 1 0 9329 0 0
+/bilder/inka/buch5.jpg
+1 1 0 3487 0 0
+/owncloud/core/vendor/jquery-ui/ui/jquery-ui.custom.js
+0 1 0 433141 0 0
+/wiki/lib/plugins/wrap/images/toolbar/box.png
+1 1 0 628 0 0
+/produkte.php
+0 3 0 17312 0 0
+/webseiten/inka/hatunkarpay.php
+0 13 0 81952 0 0
+/webseiten/inka/elizabeth.php
+0 11 0 91155 4 3
+/wiki/lib/images/wrap.gif
+1 1 0 359 0 0
+/js/jquery.greybox.js
+0 1 0 2882 0 0
+/download/Engel_Storytelling System.pdf
+0 1 0 293788 0 0
+/wiki/lib/plugins/vshare/button.png
+1 1 0 985 0 0
+/owncloud/core/img/logo.svg
+0 1 0 9329 0 0
+/blutschwerter.jpg
+1 3 0 22297 0 0
+/wiki/lib/plugins/wrap/images/toolbar/em.png
+1 1 0 509 0 0
+/download/Ambiente.jpg
+1 14 0 332346 0 0
+/core/css/multiselect.css
+0 1 0 2965 0 0
+/spielwiese/start.php
+0 4 0 12035 0 1
+/blog.jpg
+1 3 0 17322 0 0
+/sqladmin/themes/original/img/b_browse.png
+1 1 0 527 0 0
+/spielwiese/listing4-1.php
+0 17 0 36617 9 6
+/spielwiese/listing2-4.php
+0 6 0 8175 1 0
+/sqladmin/themes/original/img/s_loggoff.png
+1 1 0 524 0 0
+/wiki/feed.php
+0 8 0 17897 0 0
+/sqladmin/themes/original/img/b_home.png
+1 1 0 632 0 0
+/tag2_html/026 - Apu-Despacho03.html
+0 2 0 2298 2 0
+/wiki/lib/plugins/wrap/images/toolbar/column.png
+1 1 0 520 0 0
+/sqladmin/themes/original/img/b_search.png
+1 1 0 867 0 0
+/golem2.jpg
+1 3 0 46848 0 0
+/download/Engel_Gebete.pdf
+0 2 0 537144 0 0
+/download/Willkommen.jpg
+1 15 0 403995 0 0
+/download/Ubuntu-Logo.jpg
+1 2 0 89802 0 0
+/sqladmin/themes/original/img/b_export.png
+1 1 0 575 0 0
+/webseiten/inka/heilerausbildung.php
+0 12 0 122860 2 1
+/bilder/inka/Maya-Pyramide.jpg
+1 40 0 1005924 0 0
+/sqladmin/themes/original/img/item_ltr.png
+1 1 0 434 0 0
+/download/Wachssiegel.zip
+0 1 0 1113267 0 0
+/download/Engel_Ausbildung_der_Orden.pdf
+0 3 0 857081 0 0
+/bilder/inka/buch4.jpg
+1 2 0 4014 0 0
+/amazon2.jpg
+1 2 0 77400 0 0
+/core/vendor/snapjs/dist/latest/snap.js
+0 1 0 32871 0 0
+/kinopolis.jpg
+1 3 0 99073 0 0
+/bilder/inka/lisa.jpg
+1 3 0 852792 0 0
+/wiki/lib/tpl/dokuwiki/images/usertools.png
+1 4 0 3132 0 0
+/wiki/lib/images/toolbar/linkextern.png
+1 1 0 1177 0 0
+/engel.jpg
+1 3 0 42137 0 0
+/bilder/inka/sacsayhuaman2.jpg
+1 1 0 162222 0 0
+/sqladmin/themes/original/img/b_info.png
+1 1 0 495 0 0
+/wiki/lib/images/smaller.gif
+1 1 0 359 0 0
+/wiki/lib/plugins/color/images/picker_rose.png
+1 1 0 413 0 0
+/wiki/lib/tpl/dokuwiki/images/button-donate.gif
+1 6 0 1483 0 0
+/wiki/lib/images/toolbar/strike.png
+1 1 0 615 0 0
+/spielwiese/listing4-0.php
+0 7 0 9135 2 1
+/nasza-klasa.jpg
+1 2 0 47006 0 0
+/spielwiese/listing2-3.php
+0 5 0 6546 1 0
+/wiki/lib/exe/
+0 1 0 542 0 0
+/wiki/lib/images/toolbar/h5.png
+1 1 0 593 0 0
+/sqladmin/themes/original/img/bd_browse.png
+1 1 0 527 0 0
+/webseiten/inka/prophezeihung.php
+0 27 0 460117 9 2
+/webseiten/inka/bericht_petra.php
+0 7 0 50508 1 1
+/bilder/inka/mesa1.jpg
+1 5 0 182009 0 0
+/download/Engel_font.zip
+0 1 0 27758 0 0
+/sqladmin/themes/original/img/s_lang.png
+1 1 0 684 0 0
+/sqladmin/themes/original/img/s_status.png
+1 1 0 575 0 0
+/bilder/inka/Despacho5.jpg
+1 4 0 423412 0 0
+/webseiten/inka/berichte.php
+0 19 0 144131 4 3
+/shadowwiki/lib/exe/js.php
+0 3 0 1497741 0 0
+/bilder/inka/buch3.jpg
+1 1 0 3747 0 0
+/spielwiese/listing3-9.php
+0 6 0 570519 1 1
+/bilder/inka/hiroko_jupp.jpg
+1 7 0 642334 0 0
+/wiki/lib/images/toolbar/image.png
+1 1 0 814 0 0
+/wiki/lib/plugins/color/images/picker_light_yellow.png
+1 1 0 408 0 0
+/ania.jpg
+1 3 0 142464 0 0
+/webmail2.jpg
+1 1 0 35753 0 0
+/silver2.jpg
+1 1 0 10078 0 0
+/lib/exe/js.php
+0 3 0 1557732 0 0
+/owncloud/core/css/fonts.css
+0 1 0 1219 0 0
+/wiki/lib/images/toolbar/h.png
+1 1 0 532 0 0
+/spielwiese/php.jpg
+1 4 0 117944 0 0
+/download/Engel_Wachssiegel_Michaeliten.jpg
+1 1 0 99804 0 0
+/wiki/lib/images/smileys/icon_exclaim.gif
+1 1 0 445 0 0
+/startseite.jpg
+1 3 0 67197 0 0
+/sqladmin/phpmyadmin.css.php
+0 2 0 26338 0 0
+/spielwiese/listing2-2.php
+0 5 0 6508 1 1
+/themes/curve/style.css
+0 3 0 71904 0 0
+/wiki/lib/exe/css.php
+0 7 0 1372906 0 0
+/wiki/lib/images/toolbar/h4.png
+1 1 0 585 0 0
+/spielwiese/next-button.png
+1 2 0 27262 0 0
+/comment.php
+0 1 0 691 1 1
+/rezeptwelt.jpg
+1 2 0 50578 0 0
+/wiki/lib/images/toolbar/sig.png
+1 1 0 746 0 0
+/sqladmin/js/navigation.js
+0 1 0 4192 0 0
+/sqladmin/themes/original/img/b_empty.png
+1 1 0 560 0 0
+/startseite2.jpg
+1 1 0 37451 0 0
+/owncloud/core/search/js/search.js
+0 1 0 12305 0 0
+/webseiten/inka/bericht_helene.php
+0 8 0 51147 1 0
+/webseiten/inka/juan.php
+0 16 0 125647 6 1
+/google2.jpg
+1 2 0 17648 0 0
+/thumbnails.php
+0 1 0 1723 1 0
+/bilder/inka/Despacho4.jpg
+1 4 0 408872 0 0
+/download/ENGEL.jpg
+1 15 0 340935 0 0
+/core/js/mimetypelist.js
+0 1 0 5598 0 0
+/webseiten/inka/config.css
+0 75 0 465705 0 0
+/download/Engel_Charakterbogen_Arkana.pdf
+0 3 0 1392948 0 0
+/owncloud/core/js/l10n.js
+0 1 0 8060 0 0
+/bilder/inka/buch2.jpg
+1 2 0 7118 0 0
+/spielwiese/listing3-8.php
+0 6 0 8171 2 2
+/wiki/lib/plugins/wrap/images/toolbar/picker.png
+1 1 0 1145 0 0
+/meerwiki/lib/exe/css.php
+0 4 0 588302 0 0
+/kontakt.php
+0 3 0 15980 0 0
+/bilder/inka/despacho02.jpg
+1 4 0 694268 0 0
+/wiki/lib/plugins/color/images/picker_yellow.png
+1 1 0 429 0 0
+/download/engel.jpg
+1 16 0 339616 0 0
+/core/css/mobile.css
+0 1 0 3567 0 0
+/bilder/inka/baustelle.jpg
+1 3 0 228861 0 0
+/core/vendor/backbone/backbone.js
+0 1 0 71924 0 0
+/wiki/lib/plugins/color/images/picker_lavender.png
+1 1 0 413 0 0
+/bilder/inka/Alberto.jpg
+1 26 0 1793839 0 0
+/sqladmin/themes/original/img/b_newdb.png
+1 1 0 670 0 0
+/download/Engel_Geschichte_Das_Erwachen.pdf
+0 2 0 3279632 0 0
+/sqladmin/themes/original/img/b_help.png
+1 1 0 490 0 0
+/download/Engel_Wachssiegel_Pontifex2.jpg
+1 2 0 205874 0 0
+/bilder/inka/mikaousui.jpg
+1 9 0 686858 0 0
+/bilder/inka/under_construction_tux.jpg
+1 1 0 348077 0 0
+/core/js/octemplate.js
+0 1 0 3587 0 0
+/spielwiese/listing2-1.php
+0 6 0 6934 0 1
+/wiki/lib/plugins/wrap/images/note/16/tip.png
+1 1 0 1116 0 0
+/owncloud/core/vendor/backbone/backbone.js
+0 1 0 71924 0 0
+/wiki/lib/images/toolbar/h3.png
+1 1 0 595 0 0
+/sqladmin/themes/original/img/b_newtbl.png
+1 1 0 671 0 0
+/core/css/styles.css
+0 1 0 22606 0 0
+/facebook.jpg
+1 2 0 31595 0 0
+/wiki/lib/images/toolbar/ol.png
+1 1 0 577 0 0
+/wiki/lib/tpl/dokuwiki/images/button-css.png
+1 4 0 869 0 0
+/core/fonts/OpenSans-Regular.woff
+0 1 0 21051 0 0
+/core/fonts/OpenSans-Semibold.woff
+0 1 0 70396 0 0
+/core/js/l10n.js
+0 1 0 8060 0 0
+/wiki/lib/plugins/color/images/picker_green.png
+1 1 0 413 0 0
+/wiki/lib/images/loading.gif
+1 1 0 636 0 0
+/core/js/oc-requesttoken.js
+0 1 0 713 0 0
+/bilder/inka/machu-pichu.jpg
+1 12 0 1123812 0 0
+/bilder/inka/priester.jpg
+1 8 0 1338904 0 0
+/bilder/inka/Despacho3.jpg
+1 4 0 452788 0 0
+/owncloud/core/l10n/de_DE.js
+0 1 0 31997 0 0
+/meerwiki/lib/exe/js.php
+0 4 0 1834065 0 0
+/hintergrund2.gif
+1 5 0 8264 0 0
+/download/TFUTFU__.zip
+0 1 0 54278 0 0
+/bilder/inka/buch1.jpg
+1 1 0 2065 0 0
+/spielwiese/code.zip
+0 1 0 121041 0 0
+/owncloud/core/fonts/OpenSans-Regular.woff
+0 1 0 21051 0 0
+/spielwiese/listing3-7.php
+0 6 0 7823 2 0
+/webseiten/inka/sitzungen.php
+0 10 0 146390 4 1
+/bilder/inka/favicon.ico
+0 10 0 16933 0 0
+/bilder/inka/despacho01.jpg
+1 5 0 667517 0 0
+/wiki/lib/tpl/dokuwiki/images/apple-touch-icon.png
+1 2 0 12973 0 0
+/owncloud/core/vendor/underscore/underscore.js
+0 1 0 53427 0 0
+/download/bitcoin.jpg
+1 1 0 61922 0 0
+/vorwerkshop.jpg
+1 2 0 61163 0 0
+/download/Engel_Geschichte_Engelsschwingen.pdf
+0 2 0 86614 0 0
+/sqladmin/
+0 1 0 3786 0 0
+/owncloud/core/css/mobile.css
+0 1 0 3567 0 0
+/config.css
+0 5 0 11648 0 0
+/wiki/lib/images/page.png
+1 1 0 881 0 0
+/wiki/lib/images/toolbar/bold.png
+1 1 0 547 0 0
+/uni.jpg
+1 2 0 28307 0 0
+/owncloud/core/vendor/jquery/dist/jquery.min.js
+0 1 0 84889 0 0
+/wiki/lib/images/toolbar/h2.png
+1 1 0 594 0 0
+/wiki/lib/images/smileys/icon_fun.gif
+1 1 0 453 0 0
+/owncloud/core/css/multiselect.css
+0 1 0 2965 0 0
+/bilder/inka/seele.jpg
+1 4 0 57604 0 0
+/wiki/lib/images/smileys/icon_smile.gif
+1 1 0 448 0 0
+/sqladmin/js/functions.js
+0 1 0 41054 0 0
+/sqladmin/themes/original/img/b_drop.png
+1 1 0 573 0 0
+/owncloud/core/css/tooltip.css
+0 1 0 2845 0 0
+/wiki/doku.php
+0 4203 0 42915810 64 20
+/wiki/lib/images/smileys/icon_surprised.gif
+1 1 0 448 0 0
+/shadowwiki/feed.php
+0 6 0 15332 0 0
+/download/download.html
+0 26 0 473478 23 5
+/webseiten/inka/kontakt.php
+0 12 0 74273 3 2
+/owncloud/core/css/styles.css
+0 1 0 22606 0 0
+/sqladmin/themes/original/img/window-new.png
+1 1 0 845 0 0
+/tanelorn.jpg
+1 3 0 116319 0 0
+/webseiten/inka/danke.php
+0 11 0 72595 2 0
+/webseiten/meerwasser/magento/
+0 4 0 13295 0 0
+/owncloud/core/vendor/jquery-migrate/jquery-migrate.min.js
+0 1 0 10139 0 0
+/download/engel-storytelling-system-2-0.pdf
+0 5 0 1435508 0 0
+/spielwiese/listing3-6.php
+0 4 0 5242 1 0
+/webseiten/inka/links.php
+0 8 0 74025 1 0
+/wiki/lib/exe/opensearch.php
+0 4 0 4050 0 0
+/wiki/lib/images/toolbar/hr.png
+1 1 0 525 0 0
+/download/offiziell.jpg
+1 14 0 334584 0 0
+/sqladmin/navigation.php
+0 3 0 422086 0 0
+/bilder/inka/heiler.jpg
+1 6 0 61704 0 0
+/download/Engel_Wachssiegel_Ramieliten.jpg
+1 3 0 290779 0 0
+/spielwiese/start.jpg
+1 4 0 9372 0 0
+/wiki/lib/images/larger.gif
+1 1 0 360 0 0
+/wiki/lib/images/smileys/icon_biggrin.gif
+1 1 0 446 0 0
+/meerwiki/lib/exe/opensearch.php
+0 4 0 4093 0 0
+/core/css/apps.css
+0 1 0 15979 0 0
+/sqladmin/themes/original/img/s_theme.png
+1 1 0 999 0 0
+/whatsapp.jpg
+1 2 0 59973 0 0
+/download/TFU.jpg
+1 14 0 548670 0 0
+/tag3_html/010 - Meditation.html
+0 1 0 1078 1 1
+/owncloud/core/vendor/blueimp-md5/js/md5.js
+0 1 0 10170 0 0
+/wiki/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_888888_256x240.png
+1 1 0 7393 0 0
+/owncloud/core/vendor/davclient.js/lib/client.js
+0 1 0 13515 0 0
+/core/js/files/client.js
+0 1 0 22257 0 0
+/owncloud/core/css/apps.css
+0 1 0 15955 0 0
+/wiki/lib/images/toolbar/h1.png
+1 1 0 562 0 0
+/owncloud/core/js/octemplate.js
+0 1 0 3587 0 0
+/sqladmin/print.css
+0 1 0 1325 0 0
+/spielwiese/listing12-1.php
+0 5 0 6758 0 1
+/meerwiki/lib/tpl/dokuwiki/images/button-html5.png
+1 1 0 629 0 0
+/webseiten/inka/literatur.php
+0 9 0 86642 2 1
+/owncloud/core/vendor/handlebars/handlebars.js
+0 1 0 160097 0 0
+/sqladmin/themes/original/img/b_tblops.png
+1 1 0 607 0 0
+/bilder/inka/Ziege2.jpg
+1 4 0 4096420 0 0
+/core/vendor/jquery-ui/ui/jquery-ui.custom.js
+0 1 0 433141 0 0
+/core/js/jquery.avatar.js
+0 1 0 4819 0 0
+/lib/exe/indexer.php
+0 26 0 23870 4 5
+/shadowwiki/lib/exe/
+0 1 0 518 0 0
+/startseite2.html
+0 2 0 6176 1 0
+/owncloud/core/js/apps.js
+0 1 0 3341 0 0
+/wiki/lib/images/smileys/icon_razz.gif
+1 1 0 450 0 0
+/wiki/lib/plugins/wrap/images/note/16/todo.png
+1 1 0 967 0 0
+/tag1_html/014 - Bach.html
+0 1 0 1111 1 1
+/core/vendor/underscore/underscore.js
+0 1 0 53427 0 0
+/spielwiese/listing3-5.php
+0 5 0 6569 1 2
+/wiki/lib/plugins/color/images/picker_blue_gray.png
+1 1 0 413 0 0
+/wiki/lib/plugins/color/images/toolbar_icon.png
+1 1 0 660 0 0
+/wiki/lib/images/smileys/icon_lol.gif
+1 1 0 619 0 0
+/warnung.php
+0 4 0 23739 1 0
+/owncloud/core/js/mimetypelist.js
+0 1 0 5598 0 0
+/webseiten/inka/reiseweg.php
+0 10 0 134877 0 1
+/owncloud/core/css/fixes.css
+0 1 0 848 0 0
+/core/img/favicon.ico
+0 3 0 16314 0 0
+/shadowwiki/lib/exe/css.php
+0 3 0 600315 0 0
+/owncloud/core/css/icons.css
+0 1 0 9542 0 0
+/golem.jpg
+1 3 0 35705 0 0
+/core/vendor/bootstrap/js/tooltip.js
+0 1 0 16877 0 0
+/download/bitcoin.html
+0 4 0 11444 0 1
+/core/js/apps.js
+0 1 0 3341 0 0
+/core/img/favicon-mask.svg
+0 3 0 10131 0 0
+/wiki/lib/plugins/wrap/images/note/16/info.png
+1 1 0 1071 0 0
+/download/Engel_Wachssiegel_Ragueliten.jpg
+1 1 0 98458 0 0
+# End Of Table - urls
+# -sites- (monthly)
+106.11.154.216
+0 1 1 2721 1 1522851176
+/
+42.236.99.86
+0 1 1 2721 1 1522722784
+/
+66.249.64.81
+0 4 3 99114 2 1522755246
+/
+66.249.64.83
+0 1 1 23976 0 0
+-
+66.249.64.85
+0 2 2 8740 0 0
+-
+66.249.64.87
+0 1 0 616 0 0
+-
+199.19.249.196
+0 1 1 18223 1 1522829855
+/download/download.html
+93.77.75.246
+0 3 1 3783 1 1522589293
+/
+46.161.9.31
+0 3 2 3638 1 1522734582
+/
+23.237.4.26
+0 4 4 24543 1 1522642442
+/webseiten/inka/seminare.php
+207.46.13.8
+0 1 1 50247 0 0
+-
+207.46.13.9
+0 1 1 6970 1 1522876334
+/webseiten/inka/sandro.php
+66.249.64.92
+0 3 0 1844 0 0
+-
+69.64.40.177
+0 1 0 554 0 0
+-
+84.177.9.55
+0 207 193 2937174 3 1522837546
+/startseite.html
+66.249.64.94
+0 1 0 623 0 0
+-
+34.202.93.213
+0 2 2 2871 1 1522791249
+/
+80.67.16.80
+0 59 57 2462066 1 1522858318
+/sqladmin/
+207.46.13.192
+0 1 0 606 0 0
+-
+157.55.39.253
+0 1 0 636 0 0
+-
+172.82.185.210
+0 3 2 6044 3 1522780584
+/
+2a02:598:a::78:160
+0 1 1 11566 1 1522772256
+/login.php
+34.207.98.73
+0 2 1 18759 1 1522583153
+/download/download.html
+46.229.168.65
+0 38 38 384859 1 1522664847
+/wiki/doku.php
+46.229.168.66
+0 33 33 349879 1 1522664903
+/wiki/doku.php
+46.229.168.67
+0 50 50 504613 1 1522664919
+/wiki/doku.php
+46.229.168.68
+0 44 44 495573 1 1522664849
+/wiki/doku.php
+46.229.168.69
+0 39 39 395489 1 1522664513
+/wiki/doku.php
+193.155.96.221
+0 50 37 253969 3 1522761652
+/wiki/lib/exe/indexer.php
+18.194.21.63
+0 2 1 18698 1 1522748557
+/download/download.html
+46.229.168.70
+0 48 48 486857 1 1522665009
+/spielwiese/listing3-16.php
+46.229.168.71
+0 26 26 252747 1 1522665001
+/wiki/doku.php
+46.229.168.72
+0 32 32 328203 1 1522664958
+/wiki/doku.php
+46.229.168.73
+0 38 38 375568 1 1522665354
+/wiki/doku.php
+46.229.168.74
+0 41 41 418760 1 1522664892
+/wiki/doku.php
+46.229.168.75
+0 39 39 393325 1 1522664371
+/wiki/doku.php
+46.229.168.76
+0 10 10 100462 2 1522663684
+/wiki/doku.php
+46.229.168.77
+0 27 27 262197 1 1522663501
+/wiki/doku.php
+37.187.7.74
+0 3 1 3783 1 1522752013
+/
+46.229.168.78
+0 28 28 269601 1 1522665034
+/wiki/doku.php
+151.80.39.143
+0 14 0 9268 0 0
+-
+46.229.168.79
+0 43 43 439932 1 1522664942
+/wiki/doku.php
+167.114.211.200
+0 144 143 1450077 1 1522627058
+/wiki/doku.php
+66.249.66.65
+0 2 0 792 0 0
+-
+66.249.66.67
+0 2 0 364 0 0
+-
+131.253.27.24
+0 1 1 6229 0 0
+-
+178.137.80.124
+0 3 1 3783 1 1522618684
+/
+46.229.168.80
+0 40 40 385572 1 1522664966
+/wiki/doku.php
+94.23.33.67
+0 4 0 2588 2 1522743407
+-
+2003:f3:bbcf:601:49d8:7436:c508:7db2
+0 9 9 978348 1 1522781655
+/webseiten/inka/alberto.php
+103.255.254.135
+0 2 2 5354 2 1522857252
+/
+5.9.112.6
+0 1 1 7861 1 1522629688
+/webseiten/inka/juan.php
+2001:16b8:671c:a300:6c6a:4c02:6709:eec0
+0 22 22 1195050 1 1522570309
+/webseiten/inka/alberto.php
+5.62.34.17
+0 1 1 301367 0 0
+-
+123.30.175.201
+0 1 0 578 1 1522694128
+-
+2003:c1:4bd2:1c00:2978:981a:96eb:a7a
+0 13 13 277689 1 1522800682
+/download/download.html
+123.30.175.204
+0 1 0 575 0 0
+-
+66.249.66.85
+0 3 2 207001 1 1522562543
+/lib/exe/css.php
+66.249.66.86
+0 1 0 619 0 0
+-
+188.191.237.111
+0 3 1 2954 1 1522860130
+/
+2003:d3:63e8:d348:c9f2:b54f:c4d5:ece2
+0 21 21 2255912 1 1522783862
+/download/download.html
+40.77.177.65
+0 1 1 4324468 0 0
+-
+40.77.167.25
+0 11 10 1531943 6 1522695168
+/
+40.77.167.26
+0 2 2 105445 1 1522863095
+/webseiten/inka/bericht_ania.php
+54.36.148.201
+0 1 0 555 1 1522690531
+-
+178.25.112.170
+0 10 10 984160 1 1522586580
+/webseiten/inka/alberto.php
+54.36.148.203
+0 1 0 569 1 1522646471
+-
+66.249.66.95
+0 2 1 686 1 1522612119
+/system-cgi/guestbook/guestbook.php
+54.36.148.208
+0 1 1 4608 1 1522745174
+/calendar.php
+167.114.219.41
+0 1 0 612 0 0
+-
+146.52.80.245
+0 63 12 530755 1 1522704545
+/startseite2.html
+173.234.159.250
+0 5 4 45577 1 1522879608
+/wiki/doku.php
+40.77.167.34
+0 11 10 11487765 4 1522605881
+/webseiten/inka/level2.php
+52.91.210.20
+0 17 15 137824 1 1522886396
+/webseiten/inka/links.php
+54.36.148.216
+0 1 1 1285 1 1522783106
+/spielwiese/listing3-7.php
+204.12.208.10
+0 26 24 245382 2 1522758589
+/wiki/doku.php
+91.18.188.207
+0 14 14 278909 1 1522800913
+/download/download.html
+91.64.108.96
+0 17 17 388544 1 1522792691
+/download/download.html
+79.110.17.2
+0 6 2 7566 2 1522827652
+/
+91.200.12.233
+0 12 4 15132 1 1522793998
+/
+40.77.177.87
+0 1 1 866847 0 0
+-
+136.243.17.161
+0 1 0 635 1 1522661547
+-
+79.241.11.92
+0 1 1 26464 0 0
+-
+131.253.27.71
+0 1 1 6229 0 0
+-
+2003:e9:4bde:c774:a169:5253:27e9:1ea5
+0 1 1 301367 0 0
+-
+185.38.14.171
+0 1 1 2677 1 1522585243
+/
+83.177.128.222
+0 1 1 2721 1 1522706098
+/
+77.189.110.28
+0 10 10 1045766 1 1522703953
+/webseiten/inka/prophezeihung.php
+2003:8d:af37:9801:94a:26cf:c0ba:61e1
+0 1 1 26464 0 0
+-
+54.36.148.231
+0 1 1 1106 1 1522646650
+/tag2_html/017 - Kraftplatz.html
+54.36.148.232
+0 1 1 4609 1 1522700850
+/calendar.php
+2a01:7e01::f03c:91ff:fe09:d064
+0 7 7 11344810 1 1522779527
+/
+54.36.148.238
+0 1 1 1036 1 1522883437
+/tag2_html/028 - Apu-Despacho.html
+54.36.148.239
+0 1 0 556 1 1522876657
+-
+2.247.246.147
+0 24 24 3822376 3 1522734418
+/webseiten/inka/usui.php
+178.115.129.221
+0 1 1 26464 0 0
+-
+37.115.194.156
+0 3 1 3783 1 1522549767
+/
+5.102.173.71
+0 2 0 1112 1 1522658064
+-
+40.77.167.61
+0 14 12 1244231 6 1522689206
+/webseiten/inka/sitzungen.php
+185.209.20.147
+0 7 7 1531 7 1522830952
+/
+91.33.172.89
+0 11 11 1106596 1 1522597368
+/webseiten/inka/seminare.php
+51.15.221.112
+0 1 0 554 0 0
+-
+54.36.148.246
+0 1 1 4607 1 1522563823
+/calendar.php
+84.177.2.187
+0 190 171 5368883 2 1522861463
+/wiki/lib/exe/indexer.php
+2003:56:6f58:fc01:7153:8918:9dc5:883d
+0 1 1 12710 1 1522678229
+/webseiten/inka/alberto.php
+8.37.234.219
+0 1 1 29200 0 0
+-
+2003:43:ee04:c058:41a1:56ea:7a42:c7d3
+0 8 8 986909 1 1522849089
+/webseiten/inka/prophezeihung.php
+66.249.81.45
+0 5 5 1199376 1 1522777176
+/webseiten/inka/level1.php
+109.90.178.221
+0 59 59 1119737 4 1522708363
+/download/download.html
+66.249.81.47
+0 10 10 211854 3 1522859450
+/webseiten/inka/level3.php
+66.249.81.49
+0 11 11 2086203 1 1522777249
+/webseiten/inka/level3.php
+40.77.167.76
+0 1 1 165344 0 0
+-
+91.209.51.22
+0 301 300 3050009 1 1522653602
+/wiki/doku.php
+42.236.102.136
+0 1 0 615 1 1522723620
+-
+80.57.36.26
+0 33 32 324180 1 1522818038
+/wiki/doku.php
+91.56.45.103
+0 14 14 1118807 1 1522866344
+/webseiten/inka/europa.php
+2607:f298:5:100f::434:5cb3
+0 4 1 4373 1 1522619531
+-
+77.75.78.160
+0 1 0 616 0 0
+-
+176.31.104.175
+0 11 4 15041 2 1522638064
+/
+92.216.204.132
+0 1 1 1709 0 0
+-
+217.255.208.157
+0 1 1 26464 0 0
+-
+216.244.66.240
+0 312 23 3138460 41 1522865791
+/webseiten/inka/elizabeth.php
+2003:6b:80b:8e00:dd5b:8838:9024:9c3
+0 92 91 920772 1 1522565429
+/wiki/doku.php
+87.147.12.86
+0 25 23 1481215 1 1522678480
+-
+2a02:598:a::79:11
+0 1 0 293 1 1522775855
+-
+93.211.4.74
+0 8 8 901891 1 1522839697
+/webseiten/inka/heilerausbildung.php
+46.20.35.114
+0 1 0 150 1 1522644331
+-
+2a01:598:a007:1fa1:1:1:d90e:f8da
+0 1 0 618 0 0
+-
+95.37.109.78
+0 3 1 2954 1 1522874622
+/
+87.126.68.178
+0 1 0 632 1 1522611198
+-
+144.76.30.241
+0 301 300 3044699 1 1522572604
+/wiki/doku.php
+46.229.164.100
+0 15 0 8625 0 0
+-
+46.229.164.101
+0 21 0 12105 0 0
+-
+46.229.164.102
+0 7 0 4046 0 0
+-
+199.30.25.104
+0 1 1 6229 0 0
+-
+87.250.224.53
+0 1 1 4225826 0 0
+-
+173.208.128.34
+0 301 300 3047550 1 1522572330
+/wiki/doku.php
+54.36.149.13
+0 1 1 4614 1 1522586734
+/calendar.php
+47.68.3.94
+0 9 9 1154476 1 1522786420
+/webseiten/inka/willkommen.php
+54.36.149.15
+0 1 1 17925 1 1522836403
+/webseiten/inka/energieheilung.php
+54.36.149.18
+0 1 0 559 1 1522758444
+-
+84.177.4.33
+0 35 35 3484111 3 1522758830
+/wiki/lib/exe/indexer.php
+199.30.25.95
+0 1 1 6229 0 0
+-
+199.30.25.129
+0 2 2 872988 0 0
+-
+66.102.7.47
+0 1 1 1709 0 0
+-
+148.251.7.6
+0 2 1 10685 1 1522658874
+/wiki/doku.php
+42.236.50.40
+0 1 0 615 1 1522547464
+-
+5.45.203.5
+0 1 0 2279 0 0
+-
+195.22.127.231
+0 1 0 600 0 0
+-
+66.249.64.216
+0 2 2 8926 1 1522809083
+/
+66.249.64.218
+0 1 0 611 0 0
+-
+2a03:2880:2060:8ff0:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+162.210.196.100
+0 2 1 3252 1 1522558976
+/
+106.120.161.66
+0 1 1 2684 1 1522637336
+/
+106.120.161.68
+0 1 1 2684 1 1522637325
+/
+54.36.149.39
+0 1 1 6753 1 1522623937
+/admin.php
+109.40.2.148
+0 24 23 4017184 1 1522657823
+/webseiten/inka/seminare.php
+85.166.191.131
+0 1 1 2677 1 1522781144
+/
+37.140.238.54
+0 2 2 3784 1 1522874724
+/
+193.124.190.64
+0 5 5 1120 5 1522835328
+/
+195.211.162.27
+0 12 4 13474 3 1522882444
+/
+54.36.149.40
+0 1 1 6630 1 1522746179
+/
+41.33.2.171
+0 1 1 26464 0 0
+-
+42.236.39.148
+0 1 0 615 1 1522641732
+-
+42.236.49.73
+0 1 0 615 1 1522547463
+-
+195.22.126.21
+0 3 1 3783 1 1522569585
+/
+195.22.126.22
+0 3 1 3783 1 1522644168
+/
+194.87.94.251
+0 6 6 1344 6 1522833441
+/
+195.22.126.26
+0 3 1 3783 1 1522644653
+/
+88.198.90.9
+0 3 1 9144 3 1522816079
+/webseiten/inka/juan.php
+2a02:8388:b00:1300:f905:67c9:7ad1:181b
+0 1 1 26464 0 0
+-
+42.236.39.154
+0 1 0 615 1 1522723620
+-
+54.36.149.52
+0 1 0 559 1 1522745318
+-
+2a02:8109:8840:3240:e0bc:1825:e0a6:5c84
+0 4 4 1510517 0 0
+-
+54.78.238.124
+0 1 1 1849 1 1522857972
+/
+141.8.183.29
+0 1 1 4225826 0 0
+-
+173.208.200.154
+0 347 344 3492732 3 1522862489
+/wiki/doku.php
+54.36.150.46
+0 1 1 1723 1 1522864386
+/thumbnails.php
+88.75.25.71
+0 1 1 26464 0 0
+-
+195.22.126.33
+0 3 1 3783 1 1522621457
+/
+195.22.126.37
+0 3 1 3783 1 1522582583
+/
+54.36.149.64
+0 2 2 23226 2 1522803930
+/calendar.php
+40.77.167.4
+0 2 2 44582 1 1522817900
+/webseiten/inka/download.php
+40.77.167.9
+0 1 1 6615 1 1522881696
+/webseiten/inka/danke.php
+129.42.208.179
+0 1 1 73522 0 0
+-
+54.36.149.72
+0 1 1 10504 1 1522604882
+/wiki/doku.php
+54.36.149.76
+0 1 1 4603 1 1522602316
+/calendar.php
+54.36.149.77
+0 1 0 557 1 1522699385
+-
+54.36.149.79
+0 1 1 1127 1 1522824050
+/tag2_html/026 - Apu-Despacho03.html
+185.220.101.6
+0 1 1 2677 1 1522687882
+/
+5.255.251.125
+0 1 1 3376 0 0
+-
+2a02:8109:15c0:2e34:b0cf:f810:9dd:b268
+0 7 7 963929 1 1522789530
+/webseiten/inka/alberto.php
+54.183.165.74
+0 1 1 4231 1 1522736734
+/
+194.87.236.223
+0 8 8 1792 8 1522833399
+/
+88.198.55.175
+0 7 5 51819 2 1522683998
+/wiki/doku.php
+217.96.208.69
+0 2 2 12685 1 1522589974
+/webseiten/inka/europa.php
+199.30.24.144
+0 2 2 868448 0 0
+-
+199.30.24.148
+0 3 3 874221 0 0
+-
+193.107.3.200
+0 3 1 2954 1 1522876996
+/
+178.191.128.117
+0 1 1 26464 0 0
+-
+54.36.149.92
+0 1 1 2025 1 1522624110
+/spielwiese/listing11-14.php
+54.36.149.99
+0 1 1 4605 1 1522732309
+/calendar.php
+178.197.224.189
+0 7 7 969051 1 1522803239
+/webseiten/inka/download.php
+185.5.249.185
+0 7 7 1531 7 1522835328
+/
+185.8.107.161
+0 1 0 602 1 1522647965
+/
+62.210.142.132
+0 3 1 3783 1 1522662912
+/
+35.226.23.240
+0 1 0 573 0 0
+-
+2a03:2880:2030:cfef:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+2a03:2880:2060:8fe5:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+52.3.245.239
+0 4 0 2456 1 1522549706
+-
+78.46.156.169
+0 1 1 7868 1 1522646376
+/webseiten/inka/juan.php
+40.77.162.31
+0 2 2 159333 0 0
+-
+46.119.121.22
+0 20 0 11280 8 1522839529
+-
+40.77.162.37
+0 1 1 17733 0 0
+-
+80.187.104.90
+0 17 17 1259253 1 1522859446
+/webseiten/inka/europa.php
+46.4.87.205
+0 7 6 61488 1 1522633927
+/wiki/doku.php
+66.249.75.27
+0 1 1 1639816 0 0
+-
+66.249.75.28
+0 1 0 606 0 0
+-
+193.200.241.230
+0 245 244 2478126 1 1522594824
+/wiki/doku.php
+84.182.50.144
+0 13 13 1273605 1 1522572943
+/webseiten/inka/berichte.php
+199.30.24.177
+0 1 1 4225826 0 0
+-
+2a02:8108:2fbf:99ec:c175:e4b7:d32d:a201
+0 38 36 4445488 1 1522620849
+/webseiten/inka/prophezeihung.php
+185.236.130.56
+0 7 7 1531 7 1522831990
+/
+5.9.17.118
+0 1 1 7861 1 1522677295
+/webseiten/inka/juan.php
+5.188.9.80
+0 25 0 14375 1 1522648206
+-
+94.23.19.178
+0 2 1 10733 1 1522669450
+/wiki/doku.php
+154.16.149.74
+0 1 0 546 1 1522563858
+/
+95.37.128.199
+0 3 2 5853 1 1522773198
+/
+78.34.56.36
+0 9 9 1227732 1 1522709673
+/webseiten/inka/priester.php
+207.241.232.45
+0 5 3 125736 0 0
+-
+207.241.232.46
+0 2 1 6761 0 0
+-
+207.241.232.47
+0 2 1 1756 0 0
+-
+42.236.48.149
+0 1 0 615 1 1522641732
+-
+207.241.232.49
+0 2 1 11209701 0 0
+-
+54.88.3.202
+0 247 192 8340575 3 1522883775
+-
+91.200.12.98
+0 3 0 1806 0 0
+-
+5.255.251.8
+0 3 2 9498 1 1522618691
+/
+194.67.210.77
+0 6 6 1307 6 1522835328
+/
+42.236.48.157
+0 1 0 615 1 1522641734
+-
+207.46.13.17
+0 4 4 60148 2 1522801572
+/webseiten/inka/danke.php
+37.115.191.70
+0 3 2 3638 1 1522602504
+/
+217.69.143.42
+0 1 0 569 0 0
+-
+217.69.143.45
+0 1 0 145 0 0
+-
+217.69.143.47
+0 1 0 569 0 0
+-
+217.69.143.49
+0 1 0 146 0 0
+-
+2.247.241.145
+0 7 7 906404 1 1522629274
+/webseiten/inka/glossar.php
+180.76.15.10
+0 1 1 1720 1 1522866039
+/
+180.76.15.11
+0 1 1 10332 1 1522615191
+/forgot_passwd.php
+217.149.167.61
+0 11 11 1016882 1 1522834162
+/webseiten/inka/europa.php
+180.76.15.16
+0 1 0 575 0 0
+-
+66.249.69.102
+0 1 1 5296 0 0
+-
+66.249.69.104
+0 1 0 617 0 0
+-
+46.118.127.172
+0 17 0 9588 6 1522854579
+-
+66.249.69.109
+0 3 2 5057 2 1522729027
+/spielwiese/listing4-1.php
+185.220.100.252
+0 1 1 2677 1 1522731337
+/
+195.154.172.76
+0 2 0 1146 0 0
+-
+180.76.15.23
+0 1 1 11239 1 1522797443
+/login.php
+66.249.75.81
+0 2 1 4723 0 0
+-
+144.76.168.111
+0 1 1 12563 1 1522643299
+/webseiten/inka/europa.php
+66.249.75.83
+0 2 1 24429 1 1522705110
+/
+180.76.15.29
+0 1 1 2684 1 1522823938
+/
+66.249.75.85
+0 1 1 11446 1 1522705111
+/login.php
+66.249.69.111
+0 9 8 36744 5 1522731307
+/webseiten/inka/prophezeihung.php
+66.249.69.113
+0 6 3 23972 2 1522725728
+/
+212.65.13.230
+0 18 18 9796141 1 1522829946
+/download/download.html
+180.76.15.31
+0 1 1 2707 0 0
+-
+182.18.132.150
+0 46 42 410999 1 1522595261
+/webseiten/inka/level1.php
+66.249.69.124
+0 2 1 196521 1 1522653849
+/lib/exe/css.php
+2a03:2880:2020:bfea:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+66.249.69.126
+0 5 1 12983 1 1522653842
+/doku.php
+84.141.99.240
+0 7 7 96006 1 1522759225
+/spielwiese/listing4-1.php
+207.46.13.56
+0 12 11 11983662 7 1522885651
+/webseiten/inka/heilerausbildung.php
+93.188.39.163
+0 3 1 3783 1 1522698248
+/
+2a03:2880:2020:bfe0:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+157.82.156.249
+0 2 0 1153 1 1522860554
+-
+144.217.5.52
+0 2 0 1214 1 1522729529
+/
+137.226.113.26
+0 2 2 8462 2 1522682488
+/
+137.226.113.27
+0 4 4 16924 3 1522746290
+/
+137.226.113.28
+0 1 1 4231 1 1522836678
+/
+5.255.251.10
+0 1 1 2697 1 1522856281
+/
+5.255.251.11
+0 8 5 23994 2 1522857272
+/doku.php
+160.46.252.71
+0 10 10 988106 1 1522771856
+/webseiten/inka/heilerausbildung.php
+62.138.0.25
+0 226 93 1433028 51 1522883189
+/shadowwiki/doku.php
+207.46.13.72
+0 7 7 132650 4 1522793523
+/spielwiese/listing4-1.php
+207.46.13.74
+0 30 21 2616064 10 1522885074
+/webseiten/inka/usui.php
+207.46.13.75
+0 11 11 261466 6 1522794050
+/
+87.132.24.139
+0 1 1 26464 0 0
+-
+138.201.59.34
+0 3 2 9405 1 1522545386
+/
+157.55.39.144
+0 2 0 1216 0 0
+-
+138.197.202.197
+0 2 2 30362 1 1522595259
+/webseiten/inka/usui.php
+87.250.244.4
+0 1 0 605 0 0
+-
+162.243.69.215
+0 1 1 14621 1 1522595258
+/webseiten/inka/sitzungen.php
+220.181.132.194
+0 2 2 8950 1 1522637382
+/
+87.250.244.9
+0 1 0 609 0 0
+-
+2a03:2880:3011:9fc0:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+185.220.101.26
+0 1 1 2677 1 1522764645
+/
+185.220.101.29
+0 1 1 2677 1 1522854563
+/
+2.202.139.158
+0 1 1 26464 0 0
+-
+207.46.13.90
+0 5 4 342523 1 1522709477
+/webseiten/inka/usui.php
+51.15.206.31
+0 1 1 2644 1 1522579719
+/
+46.53.181.16
+0 3 1 3783 1 1522766941
+/
+94.220.218.149
+0 15 15 297156 1 1522877260
+/download/download.html
+144.168.163.10
+0 1 1 2721 1 1522562429
+/
+159.203.81.93
+0 1 1 7129 1 1522603832
+/webseiten/inka/ausbildung.php
+54.36.149.101
+0 1 0 556 1 1522841461
+-
+42.236.10.81
+0 1 0 615 1 1522547463
+-
+54.36.149.102
+0 1 1 1137 1 1522620849
+/tag2_html/023 - Ausblick.html
+42.236.10.82
+0 7 4 19695 3 1522685947
+/
+54.36.149.104
+0 1 1 5038 1 1522560245
+/calendar.php
+42.236.10.84
+0 1 0 615 1 1522641731
+-
+195.242.219.214
+0 1 1 2644 1 1522630601
+/
+178.159.39.237
+0 7 7 1568 7 1522830953
+/
+5.9.156.74
+0 112 111 1124018 1 1522819724
+/wiki/doku.php
+2.247.244.33
+0 8 8 1274119 1 1522605425
+/webseiten/inka/usui.php
+180.76.15.134
+0 2 0 1045 1 1522601463
+/
+180.76.15.136
+0 1 0 470 1 1522787931
+/
+185.236.130.120
+0 7 7 1568 7 1522831990
+/
+157.55.39.175
+0 13 12 1095928 8 1522621071
+/webseiten/inka/schamanismus.php
+79.137.68.85
+0 1 1 2677 1 1522552377
+/
+37.113.43.167
+0 4 1 4352 1 1522693705
+/
+180.76.15.142
+0 1 1 2882 0 0
+-
+77.119.131.213
+0 1 1 26464 0 0
+-
+180.76.15.146
+0 2 0 940 2 1522797442
+/
+180.76.15.149
+0 1 1 11239 1 1522787931
+/login.php
+2001:16b8:2dea:4700:883:6e6f:2ad1:89db
+0 1 1 26464 0 0
+-
+91.191.1.156
+0 1 1 26464 0 0
+-
+157.55.39.189
+0 7 7 85218 4 1522876280
+/webseiten/inka/ausbildung.php
+104.207.143.191
+0 1 0 573 0 0
+-
+200.192.210.46
+0 1 1 93653 0 0
+-
+157.55.39.7
+0 3 2 868978 2 1522784655
+/spielwiese/listing2-7.php
+77.75.79.11
+0 1 0 616 0 0
+-
+180.76.15.150
+0 1 0 569 0 0
+-
+180.76.15.151
+0 2 2 13094 2 1522872426
+/
+2a03:2880:20:cff8:face:b00c:0:1
+0 1 1 26464 0 0
+-
+180.76.15.155
+0 1 0 569 0 0
+-
+180.76.15.156
+0 1 1 2707 0 0
+-
+2a01:598:a00a:125e:1:2:dd64:3409
+0 1 1 21232 0 0
+-
+67.213.90.29
+0 2 0 1140 1 1522755879
+/
+148.251.52.198
+0 546 544 5515537 3 1522855951
+/wiki/doku.php
+85.25.202.18
+0 2 2 5288 1 1522752544
+/
+91.200.12.106
+0 12 4 15132 2 1522791205
+/
+52.91.157.21
+0 303 212 8283932 5 1522616990
+-
+217.73.208.142
+0 2 1 3217 1 1522757745
+/
+119.230.142.245
+0 10 10 1095915 1 1522857666
+/webseiten/inka/seminare.php
+176.221.69.122
+0 2 2 374 2 1522752690
+/
+158.69.228.56
+0 21 20 1773530 1 1522693608
+/webseiten/inka/english/welcome.php
+180.76.15.160
+0 2 2 20095 2 1522783931
+/register.php
+42.236.10.109
+0 2 0 1230 2 1522808416
+-
+40.77.178.55
+0 1 1 4460220 0 0
+-
+146.52.122.253
+0 16 15 152740 1 1522751371
+/wiki/doku.php
+94.23.27.195
+0 3 1 3783 1 1522795910
+/
+84.171.83.59
+0 9 9 99770 1 1522863016
+/spielwiese/listing4-1.php
+188.193.61.7
+0 33 32 2026210 1 1522798022
+-
+131.253.27.103
+0 1 1 4324468 0 0
+-
+185.93.3.129
+0 2 1 10419 1 1522554462
+/webseiten/inka/hiroko_jupp.php
+42.236.10.110
+0 2 0 1228 2 1522808416
+-
+42.236.10.113
+0 1 0 615 1 1522723620
+-
+42.236.10.114
+0 5 2 10768 2 1522808416
+-
+2a01:4f8:202:8105::2
+0 57 47 442274 1 1522841176
+/webseiten/inka/in_planung.php
+66.249.70.11
+0 1 1 23976 0 0
+-
+2003:c2:d3e4:6b2b:bd8d:80e3:cf8e:717b
+0 1 1 72176 0 0
+-
+2003:88:6812:a400:601e:3991:d028:566a
+0 10 10 1229081 1 1522776542
+/webseiten/inka/priester.php
+199.116.173.196
+0 1 1 2721 1 1522619298
+/
+87.250.233.120
+0 1 0 2279 0 0
+-
+54.36.148.119
+0 2 1 5174 2 1522804553
+-
+84.178.244.234
+0 6 6 962251 1 1522831501
+/webseiten/inka/alberto.php
+178.238.224.129
+0 300 299 3034358 1 1522840623
+/wiki/doku.php
+87.250.233.78
+0 33 13 51448 7 1522857268
+/
+144.202.193.40
+0 1 1 866810 0 0
+-
+54.36.148.129
+0 1 1 9087 1 1522692157
+/profile.php
+5.248.253.101
+0 6 0 3384 2 1522834684
+-
+87.250.244.125
+0 4 2 7923 1 1522853168
+/
+46.4.58.130
+0 16 15 152032 1 1522548834
+/wiki/doku.php
+42.236.102.241
+0 3 0 1843 1 1522723620
+-
+2001:16b8:465b:8d00:f52c:8e4f:d4ec:4d83
+0 1 1 26464 0 0
+-
+107.170.96.6
+0 1 1 10627 1 1522595246
+/webseiten/inka/seminare.php
+87.166.35.184
+0 1 1 26464 0 0
+-
+195.133.145.199
+0 8 8 1718 8 1522833400
+/
+134.249.55.53
+0 19 0 10716 7 1522882866
+-
+80.187.113.181
+0 14 14 278909 1 1522861461
+/download/download.html
+204.79.180.7
+0 1 1 8782 1 1522702838
+/webseiten/inka/despacho.php
+2001:16b8:2a54:e700:70c9:8608:ab9e:56f1
+0 12 12 1320630 1 1522620638
+/webseiten/inka/hatunkarpay.php
+178.159.37.55
+0 18 0 10152 5 1522844493
+-
+65.55.210.233
+0 1 1 3704 0 0
+-
+91.50.132.232
+0 1 1 165344 0 0
+-
+204.79.180.22
+0 1 1 8782 1 1522764080
+/webseiten/inka/despacho.php
+106.11.153.197
+0 1 1 2721 1 1522776613
+/
+94.181.162.57
+0 3 1 2954 1 1522863010
+/
+54.36.148.27
+0 1 1 8731 1 1522556052
+/webseiten/inka/despacho.php
+54.36.148.28
+0 1 1 4619 1 1522549006
+/calendar.php
+54.36.148.155
+0 1 1 2677 1 1522692521
+/
+5.133.179.243
+0 3 1 3783 1 1522817103
+/
+54.37.85.105
+0 3 0 1842 1 1522599665
+-
+14.215.176.10
+0 2 2 8926 1 1522602042
+/
+178.255.215.83
+0 2 1 8145 1 1522729512
+/webseiten/inka/berichte.php
+2a02:8108:2fbf:99ec:99db:1926:ba3c:c41e
+0 43 41 1135671 1 1522743766
+/webseiten/inka/danke.php
+2003:86:2703:ff00:7c32:ce7c:752e:12a9
+0 10 10 1238056 1 1522830621
+/webseiten/inka/mesa.php
+54.36.148.164
+0 1 0 7619 1 1522560775
+/
+65.19.167.130
+0 2 2 5354 2 1522677481
+/
+65.19.167.131
+0 1 1 1848 1 1522860885
+/
+54.36.148.166
+0 1 1 1285 1 1522559487
+/spielwiese/listing2-2.php
+2a02:810d:45c0:6f6c:3c04:712:c06d:58a2
+0 41 41 2273391 1 1522710211
+/webseiten/inka/mesa.php
+188.163.41.148
+0 3 1 3783 1 1522810613
+/
+2.247.244.239
+0 8 8 1274125 1 1522797773
+/webseiten/inka/usui.php
+42.236.99.130
+0 1 1 1892 1 1522859616
+/
+193.158.43.93
+0 1 1 219256 0 0
+-
+178.159.37.73
+0 3 1 3783 1 1522809732
+/
+178.137.86.152
+0 19 0 10716 8 1522864168
+-
+54.36.148.45
+0 1 1 10620 1 1522847793
+/webseiten/inka/seminare.php
+91.200.12.188
+0 6 2 7566 2 1522639571
+/
+54.36.148.179
+0 1 1 17020 1 1522558486
+/webseiten/inka/prophezeihung.php
+95.199.148.160
+0 1 1 26464 0 0
+-
+185.38.249.28
+0 3 1 3783 1 1522632319
+/
+185.36.102.114
+0 3 1 3783 1 1522576175
+/
+207.244.149.106
+0 2 0 1237 0 0
+-
+217.198.244.35
+0 7 7 1149610 1 1522827828
+/webseiten/inka/sandro.php
+54.36.148.52
+0 1 0 249 1 1522570502
+-
+54.36.148.189
+0 1 0 558 1 1522741953
+-
+2a01:598:8886:ff50:1:1:d70:bb20
+0 23 21 755969 1 1522844325
+/startseite2.html
+54.36.148.60
+0 1 0 433 1 1522818136
+/
+193.124.179.180
+0 3 3 672 3 1522835329
+/
+54.36.148.64
+0 1 0 559 1 1522568037
+-
+88.198.19.164
+0 241 240 2433413 1 1522836240
+/wiki/doku.php
+54.36.148.192
+0 1 0 556 1 1522622553
+-
+188.165.251.46
+0 2 0 1302 1 1522649979
+-
+54.36.148.71
+0 1 0 559 1 1522688866
+-
+54.36.148.73
+0 2 2 5693 2 1522802181
+/calendar.php
+159.203.42.143
+0 1 1 12512 1 1522595249
+/webseiten/inka/europa.php
+2a01:598:a004:2d82:80d9:c802:da49:668a
+0 13 13 277689 1 1522679981
+/download/download.html
+146.0.77.212
+0 1 1 2721 1 1522828119
+/
+178.24.237.45
+0 10 10 1095942 1 1522798278
+/webseiten/inka/seminare.php
+42.236.99.178
+0 1 0 610 0 0
+-
+54.36.148.87
+0 1 1 5914 1 1522556255
+/warnung.php
+82.220.88.8
+0 6 6 137347 1 1522569744
+/
+131.253.25.131
+0 2 2 868135 0 0
+-
+77.186.161.177
+0 1 1 85848 0 0
+-
+108.59.8.80
+0 2 1 3252 1 1522652343
+/
+54.36.148.92
+0 1 0 433 1 1522618618
+/
+213.225.6.59
+0 11 11 1262646 2 1522652186
+/webseiten/inka/mesa.php
+180.76.15.5
+0 1 1 1720 1 1522866039
+/
+185.11.18.130
+0 2 2 52928 0 0
+-
+2a01:598:b882:b985:d419:c926:b400:6275
+0 14 14 1970392 1 1522623702
+/webseiten/inka/prophezeihung.php
+2001:16b8:433:b000:d45f:a798:75c4:9aaf
+0 19 19 13403791 1 1522874641
+/download/download.html
+144.76.8.134
+0 124 123 1245519 1 1522806251
+/wiki/doku.php
+42.236.49.245
+0 1 0 615 1 1522641732
+-
+46.5.137.64
+0 8 8 986844 1 1522607239
+/webseiten/inka/prophezeihung.php
+144.76.153.198
+0 2 2 26246 2 1522650944
+/webseiten/inka/europa.php
+66.249.64.140
+0 2 1 5917 0 0
+-
+66.249.64.142
+0 1 1 5035 1 1522823730
+/
+66.249.64.144
+0 1 0 625 1 1522823829
+-
+2003:73:4f16:8100:3d05:6b5c:7dea:e29d
+0 18 18 2751454 1 1522619439
+/webseiten/inka/ueber-uns.php
+183.47.46.186
+0 1 0 589 0 0
+-
+139.59.243.21
+0 23 3 24873 1 1522797683
+-
+40.77.167.145
+0 1 1 124418 0 0
+-
+2a03:2880:1030:4fec:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+66.249.64.151
+0 1 0 615 1 1522881444
+-
+66.249.64.153
+0 2 0 1228 1 1522800227
+-
+66.249.64.155
+0 1 0 612 0 0
+-
+91.115.102.115
+0 24 24 2212828 1 1522582836
+/webseiten/inka/alberto.php
+207.241.231.33
+0 2 1 4781 0 0
+-
+157.55.39.25
+0 2 0 1216 0 0
+-
+40.77.179.189
+0 1 1 6229 0 0
+-
+35.153.17.76
+0 295 212 8161845 3 1522837488
+-
+131.253.25.176
+0 3 3 874340 0 0
+-
+87.237.175.31
+0 10 10 1156144 1 1522614139
+/webseiten/inka/willkommen.php
+185.154.13.6
+0 7 7 1568 7 1522830952
+/
+178.25.114.105
+0 2 2 940369 0 0
+-
+108.167.184.51
+0 1 1 187 1 1522641419
+/
+46.223.121.125
+0 2 2 83413 0 0
+-
+185.17.157.200
+0 3 1 3783 1 1522552567
+/
+176.36.21.189
+0 1 0 574 1 1522764963
+/
+69.30.234.2
+0 303 301 3056530 2 1522841615
+/wiki/doku.php
+220.181.132.200
+0 2 2 8926 1 1522637349
+/
+157.55.39.32
+0 2 0 5416 0 0
+-
+178.191.238.141
+0 1 1 93653 0 0
+-
+157.55.39.34
+0 5 5 4557425 3 1522742772
+/
+157.55.39.37
+0 35 33 9109627 16 1522747502
+-
+149.56.142.185
+0 2 0 1214 1 1522684375
+/
+52.187.144.187
+0 2 0 1139 1 1522630601
+/
+66.249.70.9
+0 3 2 5927 0 0
+-
+117.26.242.76
+0 2 0 1218 1 1522883914
+-
+42.236.48.247
+0 1 0 615 1 1522641731
+-
+40.77.167.175
+0 8 3 36459 2 1522622152
+/system-cgi/guestbook/guestbook.php
+46.229.164.98
+0 8 0 4603 0 0
+-
+46.229.164.99
+0 21 0 12075 0 0
+-
+54.67.59.131
+0 1 1 2677 1 1522713013
+/
+66.102.7.186
+0 1 1 2721 1 1522671936
+/
+157.55.39.52
+0 2 0 5416 0 0
+-
+193.124.176.156
+0 5 5 1083 5 1522835328
+/
+193.201.224.224
+0 24 6 25283 6 1522883076
+/
+85.25.210.234
+0 228 97 3848089 46 1522881615
+/doku.php
+193.201.224.228
+0 1 0 597 0 0
+-
+54.165.132.231
+0 142 92 5973409 4 1522584523
+/download/download.html
+54.162.3.62
+0 1 1 5116 0 0
+-
+207.46.13.136
+0 3 3 7941009 0 0
+-
+185.125.219.134
+0 3 3 672 3 1522835327
+/
+141.8.141.133
+0 1 1 2697 1 1522856295
+/
+77.220.213.173
+0 6 6 1307 6 1522830952
+/
+2003:d1:3ec:d201:bd78:19c7:71a3:71d
+0 6 6 73292 1 1522572989
+/webseiten/inka/wiraqocha.php
+2a02:8070:46c4:b500:9876:9bc:3d2:e96f
+0 8 8 965613 1 1522860680
+/webseiten/inka/alberto.php
+148.251.75.46
+0 2 2 20402 2 1522591115
+/webseiten/inka/europa.php
+142.4.200.37
+0 1 0 612 0 0
+-
+42.236.99.65
+0 1 1 2721 1 1522600407
+/
+54.158.201.35
+0 1 1 18179 1 1522621371
+/download/download.html
+66.249.64.64
+0 2 0 1238 0 0
+-
+2a03:2880:2050:4fe2:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+5.9.155.37
+0 144 143 1450380 1 1522561168
+/wiki/doku.php
+94.23.20.139
+0 2 0 1286 0 0
+-
+157.55.39.228
+0 30 26 16567645 13 1522712752
+/webseiten/inka/priester.php
+207.244.149.75
+0 1 0 628 1 1522882275
+-
+79.110.130.145
+0 3 1 3783 1 1522711663
+/
+66.249.64.77
+0 2 1 13310 1 1522819884
+/webseiten/inka/alberto.php
+66.249.64.79
+0 5 5 39314 4 1522757310
+/webseiten/inka/prophezeihung.php
+93.196.152.31
+0 1 1 93653 0 0
+-
+195.133.201.163
+0 8 8 1718 8 1522835385
+/
+207.46.13.172
+0 1 1 91762 0 0
+-
+92.75.189.230
+0 31 31 4655623 1 1522792706
+/webseiten/inka/willkommen.php
+178.159.43.212
+0 7 7 1531 7 1522830953
+/
+157.55.39.233
+0 1 1 9644 1 1522803184
+/webseiten/inka/literatur.php
+# End Of Table - sites (monthly)
+# -sites- (daily)
+106.11.154.216
+0 1 1 2721 1 1522851176
+/
+66.249.64.83
+0 1 1 23976 0 0
+-
+66.249.64.85
+0 2 2 8740 0 0
+-
+66.249.64.87
+0 1 0 616 0 0
+-
+199.19.249.196
+0 1 1 18223 1 1522829855
+/download/download.html
+207.46.13.9
+0 1 1 6970 1 1522876334
+/webseiten/inka/sandro.php
+84.177.9.55
+0 193 187 1499762 1 1522837546
+/startseite.html
+66.249.64.92
+0 3 0 1844 0 0
+-
+66.249.64.94
+0 1 0 623 0 0
+-
+80.67.16.80
+0 59 57 2462066 1 1522858318
+/sqladmin/
+207.46.13.192
+0 1 0 606 0 0
+-
+157.55.39.253
+0 1 0 636 0 0
+-
+151.80.39.143
+0 3 0 1660 0 0
+-
+131.253.27.24
+0 1 1 6229 0 0
+-
+103.255.254.135
+0 1 1 2677 1 1522857252
+/
+2003:c1:4bd2:1c00:2978:981a:96eb:a7a
+0 13 13 277689 1 1522800682
+/download/download.html
+188.191.237.111
+0 3 1 2954 1 1522860130
+/
+40.77.167.26
+0 2 2 105445 1 1522863095
+/webseiten/inka/bericht_ania.php
+167.114.219.41
+0 1 0 612 0 0
+-
+173.234.159.250
+0 5 4 45577 1 1522879608
+/wiki/doku.php
+52.91.210.20
+0 17 15 137824 1 1522886396
+/webseiten/inka/links.php
+91.18.188.207
+0 14 14 278909 1 1522800913
+/download/download.html
+79.110.17.2
+0 3 1 3783 1 1522827652
+/
+40.77.177.87
+0 1 1 866847 0 0
+-
+131.253.27.71
+0 1 1 6229 0 0
+-
+2003:8d:af37:9801:94a:26cf:c0ba:61e1
+0 1 1 26464 0 0
+-
+54.36.148.238
+0 1 1 1036 1 1522883437
+/tag2_html/028 - Apu-Despacho.html
+54.36.148.239
+0 1 0 556 1 1522876657
+-
+178.115.129.221
+0 1 1 26464 0 0
+-
+185.209.20.147
+0 2 2 448 2 1522830952
+/
+51.15.221.112
+0 1 0 554 0 0
+-
+84.177.2.187
+0 190 171 5368883 2 1522861463
+/wiki/lib/exe/indexer.php
+2003:43:ee04:c058:41a1:56ea:7a42:c7d3
+0 8 8 986909 1 1522849089
+/webseiten/inka/prophezeihung.php
+66.249.81.45
+0 2 2 1025516 0 0
+-
+109.90.178.221
+0 1 1 1196 0 0
+-
+66.249.81.47
+0 4 4 18984 1 1522859450
+/webseiten/inka/level3.php
+66.249.81.49
+0 1 1 3704 0 0
+-
+40.77.167.76
+0 1 1 165344 0 0
+-
+80.57.36.26
+0 33 32 324180 1 1522818038
+/wiki/doku.php
+91.56.45.103
+0 14 14 1118807 1 1522866344
+/webseiten/inka/europa.php
+217.255.208.157
+0 1 1 26464 0 0
+-
+216.244.66.240
+0 70 8 284888 9 1522865791
+/webseiten/inka/elizabeth.php
+93.211.4.74
+0 8 8 901891 1 1522839697
+/webseiten/inka/heilerausbildung.php
+95.37.109.78
+0 3 1 2954 1 1522874622
+/
+46.229.164.100
+0 8 0 4624 0 0
+-
+46.229.164.101
+0 2 0 1156 0 0
+-
+46.229.164.102
+0 2 0 1156 0 0
+-
+199.30.25.104
+0 1 1 6229 0 0
+-
+54.36.149.15
+0 1 1 17925 1 1522836403
+/webseiten/inka/energieheilung.php
+5.45.203.5
+0 1 0 2279 0 0
+-
+195.22.127.231
+0 1 0 600 0 0
+-
+66.249.64.216
+0 2 2 8926 1 1522809083
+/
+66.249.64.218
+0 1 0 611 0 0
+-
+37.140.238.54
+0 2 2 3784 1 1522874724
+/
+193.124.190.64
+0 2 2 448 2 1522835328
+/
+195.211.162.27
+0 6 2 5908 1 1522882444
+/
+194.87.94.251
+0 2 2 448 2 1522833441
+/
+88.198.90.9
+0 1 1 7874 1 1522816079
+/webseiten/inka/juan.php
+54.78.238.124
+0 1 1 1849 1 1522857972
+/
+173.208.200.154
+0 47 45 458739 2 1522862489
+/wiki/doku.php
+141.8.183.29
+0 1 1 4225826 0 0
+-
+54.36.150.46
+0 1 1 1723 1 1522864386
+/thumbnails.php
+54.36.149.64
+0 1 1 5047 1 1522803930
+/calendar.php
+40.77.167.4
+0 2 2 44582 1 1522817900
+/webseiten/inka/download.php
+40.77.167.9
+0 1 1 6615 1 1522881696
+/webseiten/inka/danke.php
+54.36.149.79
+0 1 1 1127 1 1522824050
+/tag2_html/026 - Apu-Despacho03.html
+194.87.236.223
+0 2 2 448 2 1522833399
+/
+199.30.24.144
+0 2 2 868448 0 0
+-
+193.107.3.200
+0 3 1 2954 1 1522876996
+/
+178.191.128.117
+0 1 1 26464 0 0
+-
+178.197.224.189
+0 7 7 969051 1 1522803239
+/webseiten/inka/download.php
+185.5.249.185
+0 2 2 448 2 1522835328
+/
+2a03:2880:2060:8fe5:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+46.119.121.22
+0 6 0 3384 2 1522839529
+-
+80.187.104.90
+0 17 17 1259253 1 1522859446
+/webseiten/inka/europa.php
+185.236.130.56
+0 2 2 448 2 1522831990
+/
+54.88.3.202
+0 247 192 8340575 3 1522883775
+-
+91.200.12.98
+0 1 0 606 0 0
+-
+194.67.210.77
+0 2 2 448 2 1522835328
+/
+207.46.13.17
+0 2 2 51529 1 1522801572
+/webseiten/inka/danke.php
+217.69.143.42
+0 1 0 569 0 0
+-
+217.69.143.45
+0 1 0 145 0 0
+-
+180.76.15.10
+0 1 1 1720 1 1522866039
+/
+217.149.167.61
+0 11 11 1016882 1 1522834162
+/webseiten/inka/europa.php
+46.118.127.172
+0 3 0 1692 1 1522854579
+-
+195.154.172.76
+0 2 0 1146 0 0
+-
+180.76.15.29
+0 1 1 2684 1 1522823938
+/
+212.65.13.230
+0 18 18 9796141 1 1522829946
+/download/download.html
+2a03:2880:2020:bfea:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+207.46.13.56
+0 12 11 11983662 7 1522885651
+/webseiten/inka/heilerausbildung.php
+2a03:2880:2020:bfe0:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+157.82.156.249
+0 2 0 1153 1 1522860554
+-
+137.226.113.28
+0 1 1 4231 1 1522836678
+/
+5.255.251.10
+0 1 1 2697 1 1522856281
+/
+5.255.251.11
+0 2 2 15363 1 1522857272
+/doku.php
+62.138.0.25
+0 58 23 300754 18 1522883189
+/shadowwiki/doku.php
+207.46.13.74
+0 18 11 1134801 7 1522885074
+/webseiten/inka/usui.php
+87.132.24.139
+0 1 1 26464 0 0
+-
+87.250.244.4
+0 1 0 605 0 0
+-
+87.250.244.9
+0 1 0 609 0 0
+-
+185.220.101.29
+0 1 1 2677 1 1522854563
+/
+94.220.218.149
+0 15 15 297156 1 1522877260
+/download/download.html
+54.36.149.101
+0 1 0 556 1 1522841461
+-
+178.159.39.237
+0 2 2 448 2 1522830953
+/
+5.9.156.74
+0 112 111 1124018 1 1522819724
+/wiki/doku.php
+185.236.130.120
+0 2 2 448 2 1522831990
+/
+77.119.131.213
+0 1 1 26464 0 0
+-
+157.55.39.189
+0 7 7 85218 4 1522876280
+/webseiten/inka/ausbildung.php
+200.192.210.46
+0 1 1 93653 0 0
+-
+180.76.15.150
+0 1 0 569 0 0
+-
+180.76.15.151
+0 1 1 1855 1 1522872426
+/
+180.76.15.155
+0 1 0 569 0 0
+-
+148.251.52.198
+0 546 544 5515537 3 1522855951
+/wiki/doku.php
+119.230.142.245
+0 10 10 1095915 1 1522857666
+/webseiten/inka/seminare.php
+42.236.10.109
+0 1 0 615 1 1522808416
+-
+40.77.178.55
+0 1 1 4460220 0 0
+-
+84.171.83.59
+0 9 9 99770 1 1522863016
+/spielwiese/listing4-1.php
+42.236.10.110
+0 1 0 615 1 1522808416
+-
+42.236.10.114
+0 2 0 1230 1 1522808416
+-
+2a01:4f8:202:8105::2
+0 57 47 442274 1 1522841176
+/webseiten/inka/in_planung.php
+66.249.70.11
+0 1 1 23976 0 0
+-
+54.36.148.119
+0 1 0 571 1 1522804553
+-
+84.178.244.234
+0 6 6 962251 1 1522831501
+/webseiten/inka/alberto.php
+178.238.224.129
+0 300 299 3034358 1 1522840623
+/wiki/doku.php
+87.250.233.78
+0 5 1 2795 2 1522857268
+/
+5.248.253.101
+0 3 0 1692 1 1522834684
+-
+87.250.244.125
+0 2 1 5628 1 1522853168
+/
+195.133.145.199
+0 2 2 448 2 1522833400
+/
+134.249.55.53
+0 4 0 2256 2 1522882866
+-
+80.187.113.181
+0 14 14 278909 1 1522861461
+/download/download.html
+178.159.37.55
+0 9 0 5076 2 1522844493
+-
+94.181.162.57
+0 3 1 2954 1 1522863010
+/
+5.133.179.243
+0 3 1 3783 1 1522817103
+/
+2003:86:2703:ff00:7c32:ce7c:752e:12a9
+0 10 10 1238056 1 1522830621
+/webseiten/inka/mesa.php
+65.19.167.131
+0 1 1 1848 1 1522860885
+/
+188.163.41.148
+0 3 1 3783 1 1522810613
+/
+42.236.99.130
+0 1 1 1892 1 1522859616
+/
+178.159.37.73
+0 3 1 3783 1 1522809732
+/
+178.137.86.152
+0 2 0 1128 1 1522864168
+-
+54.36.148.45
+0 1 1 10620 1 1522847793
+/webseiten/inka/seminare.php
+207.244.149.106
+0 1 0 631 0 0
+-
+217.198.244.35
+0 7 7 1149610 1 1522827828
+/webseiten/inka/sandro.php
+2a01:598:8886:ff50:1:1:d70:bb20
+0 23 21 755969 1 1522844325
+/startseite2.html
+54.36.148.60
+0 1 0 433 1 1522818136
+/
+193.124.179.180
+0 2 2 448 2 1522835329
+/
+88.198.19.164
+0 241 240 2433413 1 1522836240
+/wiki/doku.php
+54.36.148.73
+0 1 1 4615 1 1522802181
+/calendar.php
+146.0.77.212
+0 1 1 2721 1 1522828119
+/
+180.76.15.5
+0 1 1 1720 1 1522866039
+/
+185.11.18.130
+0 2 2 52928 0 0
+-
+2001:16b8:433:b000:d45f:a798:75c4:9aaf
+0 19 19 13403791 1 1522874641
+/download/download.html
+144.76.8.134
+0 124 123 1245519 1 1522806251
+/wiki/doku.php
+66.249.64.140
+0 2 1 5917 0 0
+-
+66.249.64.142
+0 1 1 5035 1 1522823730
+/
+66.249.64.144
+0 1 0 625 1 1522823829
+-
+66.249.64.151
+0 1 0 615 1 1522881444
+-
+66.249.64.153
+0 2 0 1228 1 1522800227
+-
+66.249.64.155
+0 1 0 612 0 0
+-
+157.55.39.25
+0 1 0 610 0 0
+-
+35.153.17.76
+0 295 212 8161845 3 1522837488
+-
+131.253.25.176
+0 3 3 874340 0 0
+-
+185.154.13.6
+0 2 2 448 2 1522830952
+/
+69.30.234.2
+0 301 300 3045789 1 1522841615
+/wiki/doku.php
+178.191.238.141
+0 1 1 93653 0 0
+-
+66.249.70.9
+0 3 2 5927 0 0
+-
+117.26.242.76
+0 2 0 1218 1 1522883914
+-
+46.229.164.98
+0 2 0 1150 0 0
+-
+46.229.164.99
+0 4 0 2284 0 0
+-
+193.124.176.156
+0 2 2 448 2 1522835328
+/
+193.201.224.224
+0 12 3 12227 3 1522883076
+/
+85.25.210.234
+0 66 25 1444747 12 1522881615
+/doku.php
+54.162.3.62
+0 1 1 5116 0 0
+-
+207.46.13.136
+0 3 3 7941009 0 0
+-
+185.125.219.134
+0 2 2 448 2 1522835327
+/
+141.8.141.133
+0 1 1 2697 1 1522856295
+/
+77.220.213.173
+0 2 2 448 2 1522830952
+/
+2a02:8070:46c4:b500:9876:9bc:3d2:e96f
+0 8 8 965613 1 1522860680
+/webseiten/inka/alberto.php
+66.249.64.64
+0 2 0 1238 0 0
+-
+2a03:2880:2050:4fe2:face:b00c:0:8000
+0 1 1 26464 0 0
+-
+207.244.149.75
+0 1 0 628 1 1522882275
+-
+66.249.64.77
+0 2 1 13310 1 1522819884
+/webseiten/inka/alberto.php
+195.133.201.163
+0 2 2 448 2 1522835385
+/
+207.46.13.172
+0 1 1 91762 0 0
+-
+178.159.43.212
+0 2 2 411 2 1522830953
+/
+157.55.39.233
+0 1 1 9644 1 1522803184
+/webseiten/inka/literatur.php
+# End Of Table - sites (daily)
+# -referrers- 
+http://kabinet-login-mts.ru
+0 1
+http://www.inka-online.de/webseiten/inka/bericht_jochen.php
+1 1
+https://luton-invest.ru/
+0 1
+http://remkompov.ru/contact_odincovo.html
+0 1
+http://healbio.ru/
+0 5
+https://www.google.se/
+0 1
+http://agro-gid.com/lilejniki-vse-chto-nuzhno-o-nix-znat/
+0 1
+- (Direct Request)
+0 6937
+http://aidarmebel.kz/catalog/spalnye_garnitury/
+0 1
+http://inka-online.de/wiki/doku.php
+1 209
+http://auto-kia-fulldrive.ru/avto-novosti
+0 2
+http://fotos.inka-online.de/profile.php
+1 3
+http://www.inka-online.de/webseiten/inka/hiroko_jupp.php
+1 1
+https://exdocsfiles.com/
+0 2
+https://izhstrelok.ru/catalog/komplekti-priklad-tseve/komplekt-izh-81/
+0 1
+http://rpg.inka-online.de/startseite.html
+1 36
+http://inka-online.de/wiki/lib/exe/css.php
+1 5
+http://www.skinali.com/etapy-ustanovki
+0 1
+http://blog.avtovykup.kz/news
+0 1
+https://eduinfosite.com/
+0 2
+http://www.inka-online.de/webseiten/inka/seminare.php
+1 11
+http://forum.inka-online.de/viewtopic.php
+1 28
+http://www.inka-online.de/wp-content/themes/deep-blue/megaframe/megapanel/inc/functions.php
+1 1
+http://forum.inka-online.de/wp-content/themes/qualifire//scripts/admin/uploadify/uploadify.css
+1 1
+http://www.adegadefavaios.pt/pt/noticiaswebsite/adega-de-favaios-premiada-no-concours-mondial-de-bruxelles
+0 1
+http://www.feminist.org.ua/
+0 3
+http://www.inka-online.de/webseiten/inka/energieheilung.php
+1 24
+http://forum.inka-online.de/index.php
+1 39
+http://www.inka-online.de/webseiten/inka/bericht_jupp.php
+1 1
+http://prodaemdveri.com
+0 1
+https://inform-ua.info/sport
+0 1
+http://www.inka-online.de/webseiten/inka/wiraqocha.php
+1 6
+http://musichallaudio.ru
+0 2
+http://www.inka-online.de/webseiten/inka/sandro.php
+1 8
+https://www.google.co.jp/
+0 1
+http://www.inka-online.de/webseiten/inka/schamanismus.php
+1 3
+http://deart-13.ru/
+0 6
+https://zdm-auto.com/arenda-avto/volkswagen-passat-2008-god-id157
+0 2
+https://documentbase.net/
+0 3
+http://www.inka-online.de/webseiten/inka/english/welcome.php
+1 2
+http://meerwasser.inka-online.de/warnung.php
+1 1
+http://www.svetoch.moscow
+0 1
+http://www.inka-online.de/webseiten/inka/wir_suchen.php
+1 3
+https://nizniynovgorod.dienai.ru/biosinol-70/
+0 1
+http://artpaint-market.ru/katalogstart/kartiny-po-nomeram-40-50/
+0 2
+https://www.bing.com/
+0 11
+https://avkzarabotok.info/skalping_na_forex.html
+0 1
+http://www.inka-online.de/webseiten/inka/bericht_ania.php
+1 2
+http://santaren.by
+0 2
+http://kabinet-ttk.ru
+0 4
+https://med-dopomoga.com/
+0 2
+http://www.intex-air.ru/category/naduvnye-krugi/
+0 1
+http://old-porn.lastnews.in
+0 1
+https://sslsites.de/inka-online.de/sqladmin/
+1 8
+http://www.inka-online.de/webseiten/inka/level3.php
+1 17
+http://texnika.com.ua/
+0 4
+http://podemnik.pro/catalog/kottedzhnyy-podemnik.html
+0 1
+http://uzpaket.com/produkcija/musornye-pakety/
+0 1
+http://www.intex-air.ru/category/karkasnye-bassejny-/
+0 1
+http://blogua.org/category/бизнес/
+0 1
+http://www-lk-rt.ru
+0 1
+http://www.inka-online.de/webseiten/inka/heilerausbildung.php
+1 14
+http://inka-online.de/owncloud/core/css/header.css
+1 1
+http://www.inka-online.de/webseiten/inka/ueber-uns.php
+1 12
+http://www.meerwasser.inka-online.de/
+1 1
+https://rpg.inka-online.de/startseite.html
+1 75
+http://kabinet-online-vtb.ru
+0 2
+https://xn----7sbabm1ahc4b2aqff.su/пиломатериалы/доска-пола/
+0 1
+https://sslsites.de/inka-online.de/sqladmin/db_structure.php
+1 17
+http://uzpaket.com/produkcija/plenka-i-rulonnaja-upakovka/
+0 1
+http://www.inka-online.de/webseiten/inka/level2.php
+1 8
+https://sp-laptop.ru/asus-pro5mj-n53j-n53jq-n53t-mic-mikrofon-s-kabelem-14g140323110
+0 1
+https://happysong.ru/
+0 3
+https://sslsites.de/inka-online.de/sqladmin/navigation.php
+1 11
+http://www.inka-online.de/download/engel-storytelling-system-2-0.pdf
+1 2
+http://inka-online.de
+1 1
+https://sp-laptop.ru/hp-d40-delphi-kryshka-palmrest-tachpad-bez-klaviatury-pn-tcat105bda990e
+0 1
+http://roberttierrez.blogspot.com/
+0 1
+http://www.inka-online.de
+1 1
+http://www.bing.com/search
+0 2
+http://www.inka-online.de/webseiten/inka/elizabeth.php
+1 1
+http://www.inka-online.de/webseiten/inka/europa.php
+1 21
+http://forum.inka-online.de/wp-content/themes/u-design/style.css
+1 1
+http://biplanecentre.ru/contact.html
+0 1
+https://inka-online.de/
+1 5
+https://hoztorg-opt.ru/
+0 3
+http://www.inka-online.de/webseiten/inka/level1.php
+1 5
+http://www.inka-online.de/download/download.html
+1 187
+http://eko-gazon.ru/gazon-pod-klyuch.html
+0 1
+http://pk-services.ru/
+0 3
+http://skinali.photo-clip.ru/
+0 3
+http://www.inka-online.de/webseiten/inka/bilder.php
+1 1
+https://www.zdorovie-nogi.info/treschiny-na-nogah-narodnie-sredstva.html
+0 1
+https://izhstrelok.ru/catalog/lozhi/lozha-vintovka-mosina/
+0 1
+http://www.inka-online.de/robots.txt
+1 1
+http://www.inka-online.de/download/inka/All One Nation.mp3
+1 1
+http://www.inka-online.de/webseiten/inka/willkommen.php
+1 36
+[url
+0 1
+android-app://com.google.android.googlequicksearchbox
+0 2
+http://remkompov.ru/kompyuternaya-pomosch-golicyno.htm
+0 1
+https://zelena-mriya.com.ua/
+0 6
+https://avkzarabotok.info/partnerka.html
+0 1
+https://perm.dienai.ru/tag/bad-dlya-serdca-i-sosudov/
+0 1
+http://www.skinali.com/goodies/skinali-s-fruktami
+0 1
+http://www.inka-online.de/wp-content/plugins/font-uploader/readme.txt
+1 1
+http://www.fotos.inka-online.de/login.php
+1 2
+http://kalender.inka-online.de/cal_day.php
+1 6
+http://www.inka-online.de/webseiten/inka/hatunkarpay.php
+1 5
+http://ww.w.inka-online.de/
+1 1
+http://blogua.org/category/финансы/
+0 1
+AfD-Verbotsverfahren_JETZT!
+0 10
+http://artpaint-market.ru/katalogstart/almaznaya-mozaika/
+0 1
+https://inka-online.de/wiki/doku.php
+1 40
+http://www.inka-online.de/webseiten/inka/danke.php
+1 3
+http://www.inka-online.de/webseiten/inka/links.php
+1 2
+http://www.inka-online.de/webseiten/inka/mesa.php
+1 39
+http://www.inka-online.de/webseiten/inka/priester.php
+1 28
+http://blog.avtovykup.kz/autosport
+0 1
+http://www.inka-online.de/
+1 28
+http://rpg.inka-online.de/wp-content/plugins/font-uploader/readme.txt
+1 1
+http://www.inka-online.de/webseiten/inka/bericht_helene.php
+1 2
+http://forum.inka-online.de/
+1 60
+http://www.inka-online.de/webseiten/inka/download.php
+1 1
+http://www.inka-online.de/webseiten/inka/lisa.php
+1 9
+http://owncloud.inka-online.de/core/css/header.css
+1 1
+http://optsol.ru/shop/mozyrsol/
+0 1
+http://agro-gid.com/sadovye-dorozhki-svoimi-rukami/
+0 1
+http://www.inka-online.de/wp-content/themes/famous/style.css
+1 1
+http://inka-online.de/license.txt
+1 1
+http://www.inka-online.de/webseiten/inka/despacho.php
+1 3
+http://www.google.de/url
+0 1
+https://izhstrelok.ru/catalog/prikladi/prikladi-izh-27/
+0 1
+https://infodocsportal.com/
+0 2
+http://zahvat.ru/
+0 3
+http://www.inka-online.de/webseiten/inka/lehrer.php
+1 24
+http://inka-online.de/download/Engel_Gebete.pdf
+1 1
+http://www.inka-online.de/webseiten/inka/kontakt.php
+1 8
+https://animenime.ru/
+0 3
+https://www.google.ch/
+0 1
+http://optsol.ru/shop/meinsalz/
+0 1
+https://sslsites.de/inka-online.de/sqladmin/phpmyadmin.css.php
+1 14
+http://www.inka-online.de/system-cgi/guestbook/guestbook.php
+1 2
+http://www.inka-online.de/webseiten/inka/sitzungen.php
+1 2
+http://magnetic-bracelets.ru/
+0 4
+https://www.google.com/
+0 1
+https://www.domashniy-hotel.ru/location
+0 2
+https://inform-ua.info
+0 1
+http://go.mail.ru/search_images
+0 2
+http://www.inka-online.de/webseiten/inka/bericht_petra.php
+1 2
+http://www.inka-online.de/webseiten/inka/prophezeihung.php
+1 43
+http://auto-kia-fulldrive.ru
+0 1
+http://remkompov.ru/recovery.html
+0 1
+http://eko-gazon.ru/parkovyj-gazon.html
+0 1
+http://forum.inka-online.de/posting.php
+1 3
+http://inka-online.de/
+1 68
+https://studentguide.ru/
+0 3
+https://picturesmania.com/
+0 3
+http://aidarmebel.kz/catalog/kukhonnye_garnitury/
+0 1
+https://procrafts.ru/prorab-stroitelstva.php
+0 1
+http://osteochondrosis.ru
+0 3
+http://agro-gid.com/elovyj-pililshhik-obyknovennyj/
+0 1
+http://rpg.inka-online.de/startseite2.html
+1 26
+https://inform-ua.info/world
+0 1
+http://www.inka-online.de/webseiten/inka/glossar.php
+1 8
+http://kabinet-my-pochtabank.ru
+0 4
+http://inka-online.de/download/Engel_Charakterbogen_WoD v2.pdf
+1 1
+https://loveorganic.ch/
+0 1
+http://uralsk.xkaz.org/
+0 3
+http://xn----itbbudqejbfpg3l.com/
+0 1
+https://sslsites.de/inka-online.de/sqladmin/main.php
+1 7
+http://www.inka-online.de/webseiten/inka/literatur.php
+1 11
+http://www.inka-online.de/webseiten/inka/usui.php
+1 40
+https://procrafts.ru/svarschik.php
+0 1
+http://www.rpg.inka-online.de/startseite2.html
+1 21
+https://univerfiles.com/
+0 2
+http://eko-gazon.ru
+0 1
+http://kabinet-tinkoff.ru
+0 4
+http://owncloud.inka-online.de/core/css/fonts.css
+1 2
+http://www.inka-online.de/webseiten/inka/berichte.php
+1 12
+http://www.inka-online.de/spielwiese/listing4-1.php
+1 13
+https://sp-laptop.ru/vnutrennie-komponenty/chipy/
+0 1
+https://www.xn--80aaajkrncdlqdh6ane8t.xn--p1ai/
+0 3
+http://www.svetoch.moscow/meeting/
+0 1
+https://sp-laptop.ru/klavitaura-ru-russian-msi-megabook-s420-s425-s430-s450-vr320-vr321-vr330-vr340
+0 1
+http://inka-online.de/owncloud/core/css/styles.css
+1 1
+http://nachalka21.ru/
+0 3
+http://www.podseka1.ru/collection/gralusso-2
+0 1
+http://inka-online.de/owncloud/core/css/fonts.css
+1 2
+http://podemnik.pro/info/articles/
+0 1
+http://biplanecentre.ru/price.html
+0 2
+http://www.club-lukojl.ru/
+0 3
+http://remkompov.ru/kompyuternaya-pomosch-novo-peredelkino.htm
+0 1
+https://karapuz.org.ua/catalog/detskie-shapochki-zima
+0 2
+https://www.google.at/
+0 8
+http://metallo-konstruktsii.ru/
+0 3
+http://forum.inka-online.de/robots.txt
+1 1
+https://2012-insider.info
+0 1
+https://zdm-auto.com/arenda-avto/ford-kuga-2013-god-id158
+0 1
+http://www.betterhealthbeauty.com/tag/natural-endorphins/
+0 1
+http://www.inka-online.de/webseiten/inka/config.css
+1 26
+http://www.inka-online.de/webseiten/inka/reiki.php
+1 2
+https://inka-online.de/wiki/lib/exe/css.php
+1 5
+http://www.inka-online.de/webseiten/inka/impressum.php
+1 1
+http://spb-scenar.ru/
+0 3
+http://rpg.inka-online.de/wp-content/themes/u-design/style.css
+1 1
+http://www.teplohod-gnezdo.ru/gallery/
+0 1
+http://www.google.com/
+0 14
+http://www.podseka1.ru/collection/aksessuary-3
+0 1
+http://artpaint-market.ru
+0 1
+http://www.regionshop.biz/
+0 5
+https://edudocs.net/
+0 2
+http://12u.info/
+0 3
+http://blogua.org/category/экономика/
+0 1
+https://zdm-auto.com/arenda-avto/nissan-almera-2014-god-id154
+0 1
+http://kabinet-click-alfabank.ru
+0 4
+https://ufa.dienai.ru/tag/uvlazhnyayuschiy-dnevnoy-krem-dlya-suhoy-kozhi-lica/
+0 1
+https://xn----7sbabm1ahc4b2aqff.su/пиломатериалы/имитация-бруса/
+0 1
+http://forum.inka-online.de/license.txt
+1 1
+http://www.inka-online.de/webseiten/inka/ausbildung.php
+1 20
+http://www.inka-online.de/webseiten/inka/juan.php
+1 18
+http://www.baidu.com/s
+0 1
+https://allergick.com/
+0 6
+https://bsell.ru/контакты/
+0 1
+http://www.inka-online.de/webseiten/inka/alberto.php
+1 110
+https://izhstrelok.ru/catalog/tsevya/toz-34/
+0 1
+http://inka-online.de/owncloud/
+1 2
+http://owncloud.inka-online.de/core/css/styles.css
+1 1
+http://www.inka-online.de/webseiten/inka/reiseweg.php
+1 3
+https://www.google.de/
+0 60
+http://www.tagebuch.inka-online.de/doku.php
+1 2
+134.119.234.164
+0 6
+http://www.fotos.inka-online.de/thumbnails.php
+1 3
+http://ankerch.crimea.ua/
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 14
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 100
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/65.0.3325.181 Chrome/65.0.3325.181 Saf
+0 250
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 17
+Mozilla/4.0 (compatible; MSIE2.00; Windows 2003)
+0 1
+Mozilla/5.0 (compatible; MSIE6.00; Windows 2004)
+0 1
+Python-urllib/2.7
+0 2
+Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D331 Build/KOT49I.A1421911913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.
+0 31
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (compatible; MSIE6.00; Windows 2005)
+0 1
+Mozilla/5.0 (Linux; Android 7.1.1; E5823 Build/32.4.A.1.54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobil
+0 17
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36 OPR/49.0.2725.47
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
+0 38
+Mozilla/5.0 (Android 7.0; Mobile; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2
+0 1
+Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-T550 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Ch
+0 81
+Mozilla/2.0 (compatible; MSIE3.00; Windows 2005)
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.7; http://mj12bot.com/)
+0 846
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Img/2.0; +http://go.mail.ru/help/robots)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.
+0 2
+Java/1.8.0_144
+0 46
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 1
+Mozilla/5.0 (compatible; MSIE6.00; Windows 2007)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 48
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36 OPR/49.0.2
+0 3
+Mozilla/4.0 (compatible; MSIE2.00; Windows 2007)
+0 1
+Mozilla/5.0 (compatible; MSIE6.00; Windows 2008)
+0 1
+Mozilla/5.0 (Android 7.0; Mobile; rv:58.0) Gecko/58.0 Firefox/58.0
+0 17
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 YaBrowser/17.10.0.2017 Yowser
+0 4
+Googlebot-Image/1.0
+0 9
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J320F Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile 
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 68
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 10
+Mozilla/6.0 (compatible; MSIE6.00; Windows 2002)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 62
+Mozilla/4.0 (compatible; MSIE2.00; Windows 2009)
+0 1
+Mozilla/2.0 (compatible; MSIE3.00; Windows 2009)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.4.2661.102 Safari/537.36; 360Spider
+0 12
+Mozilla/3.0 (compatible; MSIE3.00; Windows 2002)
+0 1
+Mozilla/4.0 (compatible; MSIE7.00; Windows 2003)
+0 1
+Mozilla/5.0 (Windows NT 8.1; Win64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C202 S
+0 12
+Mozilla/8.0 (compatible; MSIE5.00; Windows 2004)
+0 2
+Mozilla/5.0 (compatible; MSIE2.00; Windows 2003)
+0 1
+Mozilla/4.0 (compatible; MSIE7.00; Windows 2004)
+0 1
+Mozilla/5.0 (compatible; MojeekBot/0.6; +https://www.mojeek.com/bot.html)
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MAARJS; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 YaBrowser/17.10.1.1204 Yowser
+0 7
+Opera/9.01 (Windows NT 5.1; U; en)
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:44.0) Gecko/20100101 Firefox/44.0
+0 1
+Mozilla/5.0 (compatible; MSIE2.00; Windows 2004)
+0 2
+Mozilla/5.0 (Linux; Android 6.0; ZTE BLADE L7 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobil
+0 9
+Mozilla/6.0 (compatible; MSIE6.00; Windows 2005)
+0 1
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; MASBJS; rv:11.0) like Gecko
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)
+0 3
+Opera/9.20 (Windows NT 6.0; U; de)
+0 56
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safar
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36 OPR/49.0.27
+0 3
+Mozilla/6.0 (compatible; MSIE6.00; Windows 2006)
+0 1
+Mozilla/8.0 (compatible; MSIE5.00; Windows 2007)
+0 1
+Mozilla/3.0 (compatible; MSIE3.00; Windows 2006)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (Linux; Android 7.1.2; ONEPLUS A3003 Build/NJH47F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0
+0 10
+Mozilla/3.0 (compatible; MSIE3.00; Windows 2007)
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 19
+Mozilla/5.0 (compatible; MSIE2.00; Windows 2008)
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-G930F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Sa
+0 27
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 2773
+Mozilla/5.0 (compatible; MSIE7.00; Windows 2002)
+0 2
+Mozilla/5.0 (Windows NT 8.1; Win64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 6
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t13rl; +http://researchscan.comsys.rwth-aachen.de)
+0 4
+Mozilla/5.0 (compatible; MSIE2.00; Windows 2009)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) NS8/0.9.6
+0 3
+Mozilla/3.0 (compatible; MSIE3.00; Windows 2009)
+0 1
+Mozilla/6.0 (compatible; MSIE2.00; Windows 2002)
+0 2
+Mozilla/5.0 (Windows NT 5.0; rv:44.0) Gecko/20100101 Firefox/44.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36; 360Spider
+0 17
+Mozilla/6.0 (compatible; MSIE2.00; Windows 2004)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.54 [en]
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/6.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 8.1; Win64; rv:40.1) Gecko/20100101 Firefox/40.1
+0 3
+Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)
+0 13
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Media Center PC
+0 4
+Mozilla/2.0 (compatible; MSIE4.00; Windows 2005)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.6 (build 01425))
+0 3
+Mozilla/5.0 (Windows NT 8.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+0 6
+Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0
+0 8
+Mozilla/5.0 (Linux; Android 7.0; HTC U Ultra Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile
+0 8
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 7
+Mozilla/5.0 (compatible; MSIE7.00; Windows 2008)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.11  [en]
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 11
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+0 2
+Mozilla/5.0 (compatible; MSIE7.00; Windows 2009)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 2
+Mozilla/6.0 (compatible; MSIE2.00; Windows 2009)
+0 1
+Mozilla/5.0 (compatible; MSIE3.00; Windows 2002)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 8
+Mozilla/5.0 (iPad; CPU OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C202 Safari/604
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Chr
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 2
+NYU Internet Census (https://scan.lol; research@scan.lol)
+0 25
+Mozilla/6.0 (compatible; MSIE7.00; Windows 2004)
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+0 6
+Mozilla/5.0 (Windows NT 7.0; WOW64; rv:33.1) Gecko/20100101 Firefox/33.1
+0 3
+Mozilla/7.0 (compatible; MSIE2.00; Windows 2004)
+0 1
+Mozilla/8.0 (compatible; MSIE6.00; Windows 2005)
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 YaBrowser/17.10.0.2017 Yowse
+0 4
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.00
+0 3
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 6
+Mozilla/5.0 (Windows NT 10.1; rv:30.0) Gecko/20100101 Firefox/30.0
+0 3
+Mozilla/0.6 Beta (Windows)
+0 3
+Mozilla/7.0 (compatible; MSIE2.00; Windows 2006)
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:7.0) Gecko/20120903 Firefox/37.0
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; WOW64; SV1; .NET CLR 2.0.50727)
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0 SeaMonkey/2.33.1
+0 1
+Mozilla/5.0 (compatible; MSIE3.00; Windows 2007)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 71
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts)
+0 1
+com.google.GoogleMobile/46.0.0 iPhone/11.2.6 hw/iPhone9_3
+0 1
+Mozilla/5.0 (Windows NT 8.0; Win64; rv:32.1) Gecko/20100101 Firefox/32.1
+0 3
+Mozilla/5.0 (Linux; Android 7.0; VTR-L09 Build/HUAWEIVTR-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mob
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+0 2
+Mozilla/8.0 (compatible; MSIE6.00; Windows 2009)
+0 2
+Mozilla/3.0 (compatible; MSIE4.00; Windows 2008)
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile S
+0 16
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 7
+Mozilla/3.0 (x86 [en] Windows NT 5.1; Sun)
+0 3
+Mozilla/5.0 (compatible; SiteExplorer/1.1b; +http://siteexplorer.info/Backlink-Checker-Spider/)
+0 1
+Mozilla/5.0 (compatible; SEOkicks-Robot; +http://www.seokicks.de/robot.html)
+0 3
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 9
+Mozilla/5.0 (Windows NT 8.1; rv:40.0) Gecko/20100101 Firefox/40.0
+0 6
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 1
+Mozilla/2.0 (compatible; MSIE5.00; Windows 2003)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/3.0 (compatible; WebCapture 2.0; Auto; Windows)
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+0 2
+Mozilla/4.0 (compatible; MSIE4.00; Windows 2004)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.02 Bork-edition [en]
+0 3
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 95)
+0 2
+com.google.GoogleMobile/46.0.0 iPhone/11.2.6 hw/iPhone7_2
+0 1
+Mozilla/6.0 (compatible; MSIE3.00; Windows 2005)
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:109)
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 61
+Mozilla/6.0 (compatible; MSIE3.00; Windows 2006)
+0 1
+GuzzleHttp/6.2.1 curl/7.29.0 PHP/7.0.27
+0 23
+Mozilla/5.0 (Linux; U; Android 7.0; en-US; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chro
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36 OPR/51.0.2830.55
+0 33
+Mozilla/5.0 (X11; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+0 7
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.1) Gecko/20100101 Firefox/40.1
+0 9
+Mozilla/4.0 (compatible; MSIE4.00; Windows 2007)
+0 1
+Mozilla/1.22 (compatible; MSIE 2.0d; Windows NT)
+0 3
+Mozilla/2.0 (compatible; MSIE5.00; Windows 2007)
+0 2
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)
+0 3
+Mozilla/6.0 (compatible; MSIE3.00; Windows 2008)
+0 1
+Mozilla/7.0 (compatible; MSIE7.00; Windows 2009)
+0 1
+Mozilla/4.0 (compatible; MSIE4.00; Windows 2008)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+0 6
+Mozilla/8.0 (compatible; MSIE2.00; Windows 2009)
+0 1
+Mozilla/6.0 (compatible; MSIE3.00; Windows 2009)
+0 2
+Mozilla/0.91 Beta (Windows)
+0 3
+Mozilla/4.0 (compatible; MSIE4.00; Windows 2009)
+0 1
+Mozilla/8.0 (compatible; MSIE7.00; Windows 2003)
+0 1
+Mozilla/3.0 (compatible; MSIE5.00; Windows 2002)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+0 3
+Mozilla/3.0 (compatible; MSIE5.00; Windows 2003)
+0 1
+Mechanize/2.7.5 Ruby/2.3.3p222 (http://github.com/sparklemotion/mechanize/)
+0 1
+Mozilla/5.0 (compatible; MSIE4.00; Windows 2004)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.0 [en]
+0 3
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 2
+Opera/8.00 (Windows NT 5.1; U; en)
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 10
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 83
+Mozilla/5.0 (compatible; AlphaBot/3.2; +http://alphaseobot.com/bot.html)
+0 4
+YisouSpider
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 S
+0 82
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; Lenovo YT3-X50F Build/LMY47V)
+0 11
+Mozilla/5.0 (compatible; MSIE4.00; Windows 2006)
+0 1
+Opera/7.60 (Windows NT 5.2; U)  [en] (IBM EVV/3.0/EAK01AG9/LE)
+0 5
+Mozilla/7.0 (compatible; MSIE3.00; Windows 2007)
+0 1
+Mozilla/8.0 (compatible; MSIE7.00; Windows 2008)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 1
+Mozilla/3.0 (compatible; MSIE5.00; Windows 2007)
+0 2
+Mozilla/5.0 (compatible; FemtosearchBot/1.0; http://femtosearch.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MASBJS; rv:11.0) like Gecko
+0 9
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 57
+Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+0 3
+Mozilla/5.0 (Linux; Android 7.0; SM-G925F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.33
+0 1
+Mozilla/5.0 (compatible; MSIE4.00; Windows 2009)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/537.86.7
+0 45
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+0 9
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G955F Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 4
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 13
+Mozilla/6.0 (compatible; MSIE4.00; Windows 2003)
+0 1
+Mozilla/8.0 (compatible; MSIE3.00; Windows 2004)
+0 1
+Mozilla/4.0 (compatible; MSIE5.00; Windows 2004)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 3
+Opera/9.00 (Windows NT 5.1; U; ru)
+0 8
+Mozilla/8.0 (compatible; MSIE3.00; Windows 2006)
+0 2
+Mozilla/4.0 (compatible; MSIE5.00; Windows 2006)
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 147
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C114 Saf
+0 1
+Mozilla/5.0 (Windows NT 10.0; rv:57.0) Gecko/20100101 Firefox/57.0
+0 3
+Mozilla/8.0 (compatible; MSIE3.00; Windows 2007)
+0 1
+Mozilla/4.0 (compatible; MSIE5.00; Windows 2007)
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 3
+Mozilla/5.0 (Windows NT 6.0; rv:30.0) Gecko/20100101 Firefox/30.0
+0 3
+Mozilla/5.0 (Linux; Android 5.1.1; Lenovo YT3-X50F Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 S
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Sa
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 3
+MauiBot (crawler.feedback+wc@gmail.com)
+0 1008
+Mozilla/8.0 (compatible; MSIE3.00; Windows 2009)
+0 1
+Mozilla/4.0 (compatible; MSIE5.00; Windows 2009)
+0 1
+Barkrowler/0.7 (+http://www.exensa.com/crawl)
+0 3
+Mozilla/5.0 (compatible; MSIE5.00; Windows 2002)
+0 2
+Mozilla/3.0 (compatible; MSIE6.00; Windows 2002)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)
+0 8
+Mozilla/5.0 (Windows NT 5.1; rv:40.1) Gecko/20100101 Firefox/40.1
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; ExtLinksBot/1.5; +https://extlinks.com/Bot.html)
+0 5
+Blackboard Safeassign
+0 2
+Mozilla/5.0 (compatible; Steeler/3.5; http://www.tkl.iis.u-tokyo.ac.jp/~crawler/)
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 4.3; C1905 Build/15.4.A.1.9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 26
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36
+0 2
+Mozilla/2.0 (compatible; MSIE2.00; Windows 2004)
+0 1
+Mozilla/3.0 (compatible; MSIE6.00; Windows 2005)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 YaBrowser/17.10.1.1204 Yowse
+0 7
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 2
+Mozilla/5.0 (Windows NT 5.0; rv:30.1) Gecko/20100101 Firefox/30.1
+0 3
+Mozilla/5.0 (Linux; Android 5.1; Archos 101c Copper Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109
+0 14
+ltx71 - (http://ltx71.com/)
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:59.0) Gecko/20100101 Firefox/59.0
+0 8
+Mozilla/3.0 (compatible; MSIE6.00; Windows 2006)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17
+0 1
+AfD-Verbotsverfahren JETZT!
+0 10
+Mozilla/5.0 (Windows NT 8.1; WOW64; rv:32.1) Gecko/20100101 Firefox/32.1
+0 4
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 312
+Mozilla/7.0 (compatible; MSIE4.00; Windows 2007)
+0 1
+Mozilla/3.0 (compatible; MSIE6.00; Windows 2007)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Cliqzbot/2.0; +http://cliqz.com/company/cliqzbot)
+0 4
+Mozilla/5.0 (Windows NT 6.0; Win64; rv:35.0) Gecko/20100101 Firefox/35.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3223.8 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; MSIE5.00; Windows 2008)
+0 2
+Mozilla/2.0 (compatible; MSIE2.00; Windows 2007)
+0 1
+Opera/8.01 (Windows NT 5.1)
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 9
+libwww-perl/6.15
+0 1
+com.google.GoogleMobile/46.0.0 iPhone/11.2.6 hw/iPhone10_6
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.1
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 2.0.0 Beta 1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
+0 3
+Mozilla/5.0 (Windows NT 10.1; rv:40.1) Gecko/20100101 Firefox/40.1
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; IBP; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36 OPR/49.0.2725.4
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-PT; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 43
+GuzzleHttp/6.2.1 curl/7.47.0 PHP/7.1.3
+0 1
+Mozilla/8.0 (compatible; MSIE4.00; Windows 2003)
+0 1
+Mozilla/6.0 (compatible; MSIE5.00; Windows 2003)
+0 1
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12sns; +http://researchscan.comsys.rwth-aachen.de)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; Win64; AMD64)
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36 OPR/49.0.2725.47
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5
+0 3
+Mozilla/3.0 (compatible; MSIE2.00; Windows 2003)
+0 1
+Mozilla/4.0 (compatible; MSIE6.00; Windows 2004)
+0 1
+ia_archiver
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 4
+Mozilla/2.0 (compatible; MSIE7.00; Windows 2005)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+0 1
+Mozilla/5.0 (Windows NT 7.0; rv:33.1) Gecko/20100101 Firefox/33.1
+0 3
+Mozilla/6.0 (compatible; MSIE5.00; Windows 2006)
+0 1
+Mozilla/3.0 (compatible; MSIE2.00; Windows 2005)
+0 1
+Mozilla/5.0 (Linux; Android 8.1.0; Nexus 5X Build/OPM3.171019.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.10
+0 11
+Mozilla/5.0 (Linux; U; Android 5.0.2; zh-CN; Redmi Note 3 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 OP
+0 4
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 1
+Mozilla/6.0 (compatible; MSIE5.00; Windows 2007)
+0 1
+Mozilla/4.0 (compatible; MSIE6.00; Windows 2007)
+0 1
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.7) Gecko/20060909 Firefox/1.5.0.7
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 20
+Mozilla/6.0 (compatible; MSIE5.00; Windows 2008)
+0 1
+Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+0 648
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 301
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 9
+Mozilla/3.0 (compatible; MSIE7.00; Windows 2002)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 2
+Mozilla/5.0 (iPad; CPU OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.
+0 14
+Mozilla/5.0 (compatible; adscanner/)
+0 454
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+0 1
+istellabot/t.1.13
+0 2
+Dalvik/2.1.0 (Linux; U; Android 5.1; Archos 101c Copper Build/LMY47I)
+0 1
+Mozilla/4.0 (compatible; MSIE2.00; Windows 2002)
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+143652
+0 57 57 2460548 1 1522858070
+# End Of Table - usernames

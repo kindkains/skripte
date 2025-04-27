@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Bitte melden Sie sich an"
+AuthUserFile /var/www/htpasswd/inka.htpasswd
+require valid-user
+Options +Indexes

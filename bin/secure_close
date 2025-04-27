@@ -1,2 +1,0 @@
-#!/bin/bash
-fusermount -u /home/sandro/$1

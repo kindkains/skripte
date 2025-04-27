@@ -1,0 +1,247 @@
+#splash img{
+		margin: 0 auto;
+		
+}
+
+body {
+			color: #000000;													/*Schriftfarbe schwarz*/
+         background-color: #ffffff;										/*Hintergrundfarbe weiﬂ*/
+         font-family: Verdana, Arial, Helvetica, sans-serif;	/*Schriftart*/
+         font-size: small;													/*Schriftgrˆﬂe*/
+}
+
+h1 {
+	font-size:200%;
+}
+
+h2 {
+	font-size:130%;
+}
+
+address {
+			font-size: 80%;      				/*20% kleiner als in body definiert*/
+         font-style: normal;					/*normale Schrift, nicht kursiv */
+         letter-spacing: 2px;					/*Abstand zwischen den Buchstaben */
+         padding-top: 10px;					/*Abstand zwischen Text und Rahmenlinie */
+         border-top: 1px solid #003399;	/*Erzeugt eine Linie, 1 Pixel dick und durchgezogen -> solid */
+         margin-top: 20px;						/*Abstand oberhalb der Linie zum Text dar¸ber */
+}
+
+#kopf {
+			color: black;									/*Schriftfarbe schwarz*/
+         background-color: #ffffff;					/*Hintergrundfarbe dunkelblau*/
+         height: 165px;									/*feste Hˆhe 100px, wie das CHIP Logo*/
+         background-image: url(../../bilder/inka/landschaft.png);	/*Hintergrundbild im Kopf*/
+         background-repeat: no-repeat;
+         background-position: top left;
+         margin-top: 0;
+}
+
+#kopf p {
+			font-size: 140%;			/*Schriftgrˆﬂe*/
+			font-weight: bold;		/*Absatz in #kopf fett (bold) darstellen*/
+         margin: 0;					/*oberen Abstand auf 0 setzen -> kein Abstand*/
+}
+        
+a img {
+	border: 0;							/*kein Rahmen, wenn ein Bild ein Hyperlink ist*/
+}
+
+#navi {
+      	float: left;					/*schwebe unter den Kopfbereich und nach links*/
+         width: 185px;					/*feste Breite von 185 Pixeln*/
+         height: 300%;					/*Navigationsleiste bis ganz nach unten*/
+			color: #FFC900; 				/*Schriftfarbe weiﬂ*/
+         background-color: #A52A2A;	/*dunkelblau von chip.de*/
+         list-style: none; 			/*Aufz‰hlungszeichen ausstellen*/
+         padding: 20px;
+         margin: 0;
+
+}
+
+#navi a {
+			display: block;						/*mache Link zum Block Element*/
+			color: white;
+         text-decoration: none;				/*Unterstreichung entfernen*/
+         padding: 4px;
+         border-left: 0px solid #004477;	/*dundelblauer Rahmen links*/
+        }
+
+#kopf img {
+	 float: left;			/*schwebe nach links*/
+          width: 225px;			/*float immer mit Angabe von width*/
+          margin-right: 20px;		/*Abstand zum Text daneben*/
+          background-image: 100%;
+       	 }
+
+#inhalt {
+	margin-left: 235px;		/*Gesamtbreite #navi: 185px*/
+         margin-right: 50px;
+        }
+
+html, body {
+	  height: 100%;
+           margin: 0;
+           padding: 0;
+           }
+
+#navi li {
+	padding: 2px;
+         margin: 2px;
+         }
+
+#startseite #nav-willkommen,
+#welcome #nav-welcome,
+#schamanismus #nav-schamanismus,
+#ueber-uns #nav-ueber-uns,
+#about-us #nav-about-us,
+#lehrer #nav-lehrer,
+#andre #nav-andre,
+#andre_eng #nav-andre_eng,
+#sandro #nav-sandro,
+#sandro_eng #nav-sandro_eng,
+#lisa #nav-lisa,
+#energieheilung #nav-energieheilung,
+#energyhealing #nav-energyhealing,
+#reiki #nav-reiki,
+#usui #nav-usui,
+#sitzungen #nav-sitzungen,
+#despacho #nav-despacho,
+#despacho_eng #nav-despacho_eng,
+#prophezeihung #nav-prophezeihung,
+#hatunkarpay #nav-hatunkarpay,
+#reiseweg #nav-reiseweg,
+#bilder #nav-bilder,
+#ausbildung #nav-ausbildung,
+#heilerausbildung #nav-heilerausbildung,
+#priester #nav-priester,
+#level1 #nav-level1,
+#level2 #nav-level2,
+#level3 #nav-level3,
+#mesa #nav-mesa,
+#seelen #nav-seelen,
+#seminare #nav-seminare,
+#juan #nav-juan,
+#juan_eng #nav-juan_eng,
+#elizabeth #nav-elizabeth,
+#elizabeth_eng #nav-elizabeth_eng,
+#alberto #nav-alberto,
+#alberto_eng #nav-alberto_eng,
+#hiroko_jupp #nav-hiroko_jupp,
+#hiroko_jupp_eng #nav-hiroko_jupp_eng,
+#europa #nav-europa,
+#europa_eng #nav-europa_eng,
+#wir_suchen #nav-wir_suchen,
+#in_planung #nav-in_planung,
+#workshops #nav-workshops,
+#berichte #nav-berichte,
+#literatur #nav-literatur,
+#fotos #nav-fotos,
+#pictures #nav-pictures,
+#kontakt #nav-kontakt,
+#contact #nav-contact,
+#glossar #nav-glossar,
+#links #nav-links,
+#links_eng #nav-links_eng,
+#forum #nav-forum,
+#gaeste #nav-gaeste,
+#wiraqocha #nav-wiraqocha,
+#download #nav-download,
+#download_eng #nav-download_eng,
+#impressum #nav-impressum,
+#danksagung #nav-danksagung,
+
+#navi a:hover {
+      	color: black;
+         background-color:#FFDF00;
+         border-left: 5px solid #de0029; /*rote Rahmenlinie links*/
+         }
+
+#links li {
+         list-style: none;
+          }
+
+label {
+	float: left;
+         width: 50px;
+      }
+
+input#submit {
+	    margin-left: 50px;
+             }
+
+#bilder img{
+  margin: 30px;
+  border: 2px solid blue;
+  margin-right: 0px;
+  }
+
+#pics img{
+  margin: 0px;
+  border: 2px solid blue;
+  margin-right: 0px;
+  }
+
+#literatur {
+	margin-right: 0px;
+         }
+
+#heilung,#seele,#besetzung,#fernheilung,#despacho {
+	border-top: 1px solid #003399;
+         padding-top: 10px;
+         margin-top: 20px;
+         }
+
+#eintritt {
+          color: black;
+          background-color: white;
+          height: 100%;
+          margin: 0;
+          padding: 0;
+	}
+
+#inkaproph {
+	border-bottom: 1px solid #003399;
+         padding-bottom: 10px;
+         margin-bottom: 20px;
+         }
+
+#inkaheil {
+	border-bottom: 1px solid #003399;
+         padding-bottom: 10px;
+         margin-bottom: 20px;
+         }
+
+#einleitung {
+	border-bottom: 1px solid #003399;
+         padding-bottom: 10px;
+         margin-bottom: 20px;
+         }
+
+#januar,#februar,#m‰rz,#april,#mai,#juni,#juli,#august,#september,#oktober,#november,#dezember {
+  margin: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px solid blue;
+  margin-right: 0px;
+  }
+
+#hinweis {
+	margin: 30px;
+         padding-left: 20px;
+         padding-right: 20px;
+         border: 2px solid red;
+         margin-right: 0px;
+         }
+
+#newsletter {
+  margin: 30px;
+  border: 2px solid black;
+  margin-right: 661px;
+  }
+
+#newsletter2 {
+  margin: 30px;
+  border: 2px solid black;
+  margin-right: 735px;
+  }

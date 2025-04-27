@@ -1,0 +1,323 @@
+# Webalizer V2.21-02 Incremental Data - 08/14/2011 04:40:41
+2011 8 14 4 40 41
+160 0 44 0 3 34 92679 104 62 0
+1 5 8 1 14
+12 0 6922 6 9 6
+8 0 4616 3 6 3
+9 0 5184 4 7 4
+12 0 6953 5 7 4
+18 0 10433 6 12 7
+13 0 7531 5 8 5
+9 0 5243 5 5 5
+7 0 4060 5 6 5
+7 0 4050 2 4 1
+20 0 11587 8 11 8
+18 0 10446 5 12 5
+13 0 7540 5 8 5
+9 0 5198 3 6 3
+5 0 2916 1 3 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+4 0 2302 3
+7 0 4036 5
+0 0 0 0
+6 0 3492 4
+1 0 576 1
+9 0 5206 6
+8 0 4650 4
+15 0 8696 9
+0 0 0 0
+6 0 3499 2
+4 0 2316 3
+34 0 19651 22
+16 0 9244 10
+11 0 6360 8
+15 0 8726 12
+11 0 6369 7
+1 0 576 1
+2 0 1174 1
+1 0 572 1
+2 0 1172 0
+1 0 586 0
+3 0 1736 3
+3 0 1740 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+160
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+95.108.158.242
+0 3 0 1765 0 0
+-
+93.158.151.24
+0 4 0 2316 2 1312619799
+-
+207.46.199.46
+0 2 0 1173 1 1312619572
+-
+207.46.199.52
+0 2 0 1167 1 1312562134
+-
+65.52.110.145
+0 2 0 1164 1 1312963113
+-
+87.177.169.6
+0 1 0 576 1 1312777677
+-
+86.60.179.213
+0 2 0 1162 1 1312442984
+-
+65.52.110.190
+0 2 0 1168 1 1312704240
+-
+65.52.110.191
+0 2 0 1165 1 1312447737
+-
+208.115.111.72
+0 2 0 1174 1 1312843981
+-
+50.81.17.102
+0 2 0 1162 1 1313043633
+-
+80.57.9.71
+0 1 0 576 1 1312215700
+-
+66.249.72.214
+0 2 0 1162 1 1313164885
+-
+208.115.111.248
+0 7 0 4082 1 1313076707
+-
+66.249.72.234
+0 2 0 1162 1 1312960906
+-
+213.186.122.3
+0 10 0 5832 2 1313296841
+-
+199.80.52.5
+0 1 0 572 1 1312163128
+-
+208.80.194.26
+0 5 0 2868 5 1312984579
+-
+208.80.194.28
+0 1 0 576 1 1312334884
+-
+208.80.194.29
+0 3 0 1720 3 1313083440
+-
+64.38.3.50
+0 1 0 572 1 1312353565
+-
+95.210.185.182
+0 2 0 1162 1 1313248559
+-
+208.80.194.31
+0 1 0 572 1 1313111896
+-
+208.80.194.32
+0 1 0 576 1 1312812655
+-
+208.80.194.34
+0 1 0 572 1 1312228175
+-
+208.80.194.35
+0 1 0 576 1 1312196955
+-
+208.80.194.36
+0 2 0 1148 2 1313244446
+-
+188.117.38.38
+0 2 0 1162 1 1312987046
+-
+173.236.21.106
+0 2 0 1162 1 1312180998
+-
+93.158.147.8
+0 66 0 38104 11 1313238994
+-
+64.246.165.170
+0 2 0 1162 1 1312539436
+-
+77.250.43.196
+0 1 0 576 1 1312262909
+-
+68.48.207.241
+0 2 0 1162 1 1313044946
+-
+151.27.79.208
+0 1 0 576 1 1312327867
+-
+87.177.164.88
+0 1 0 576 1 1312453728
+-
+91.54.99.99
+0 2 0 1162 1 1312818009
+-
+65.52.110.13
+0 2 0 1154 1 1312978586
+-
+65.52.110.20
+0 2 0 1164 1 1312673466
+-
+212.125.194.117
+0 2 0 1162 1 1312723999
+-
+157.55.116.57
+0 2 0 1164 1 1312715734
+-
+65.52.110.55
+0 2 0 1174 1 1313174220
+-
+65.52.110.71
+0 2 0 1177 1 1312718664
+-
+207.46.195.237
+0 2 0 1168 1 1313157725
+-
+66.249.72.103
+0 2 0 1154 1 1312966251
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+213.186.122.3
+0 5 0 2916 1 1313296841
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 157
+http://www.wii-live.de/index.php
+0 2
+http://whois.domaintools.com/schamanentrommel-neuwied.de
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SIMBAR={CEB7BA0D-7F46-4e3f-B716-1C8491BB27E1}; FunWebProducts; .NET CLR 1.
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3
+0 1
+Mozilla/5.0 (compatible; SiteBot/0.1; +http://www.sitebot.org/robot/)
+0 10
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 70
+Java/1.6.0_06
+0 1
+Java/1.6.0_24
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 9.21
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; ZangoToolbar 4.8.3; .NET CLR 2.0.50727)
+0 1
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 3
+Mozilla/5.0 (compatible; 008/0.83; http://www.80legs.com/webcrawler.html) Gecko/2008032620
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; sbcydsl 3.12; YPC 3.0.1)
+0 1
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)._
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Whirlpool BD2; H010818)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.1.11) Gecko/20100701 SeaMonkey/2.0.6
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; {1562D752-5296-DB93-1C18-1DBFFD6D04A9})
+0 1
+Java/1.4.1_04
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.0; http://www.majestic12.co.uk/bot.php?+)
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; Windows-Media-Player/10.00.00.3990)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {966FEF99-B3DE-30E6-3690-481CB73F6F06})
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SP/6.35/1.01/ONLINE; SV1; .NET CLR 1.1.4322; InfoPath.1)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {132741AF-B094-7B4F-00E7-654A1900D000})
+0 1
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.0
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 20
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; DT; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox/3.0
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; HbTools 4.7.3)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProducts; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Tablet PC 1.7; 
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SaveWealth; (R1 1.5); .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.org/, crawler@dotnetdotcom.org)
+0 7
+Mozilla/5.0 (compatible; 008/0.83; http://www.80legs.com/webcrawler.html;) Gecko/2008032620
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

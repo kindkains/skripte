@@ -1,2 +1,0 @@
-#!/bin/bash
-encfs /home/sandro/.$1 /home/sandro/$1
